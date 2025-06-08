@@ -1,0 +1,2098 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[School]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>School</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sun, 08 Jun 2025 09:05:04 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sun, 08 Jun 2025 09:05:03 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Genetika]]></title><description><![CDATA[ 
+ <br><br><a class="internal-link" data-href="MyslenkovaMapaGen" href="biologie/myslenkovamapagen.html" target="_self" rel="noopener nofollow">Myšlenková mapa</a><br><br>
+<br>Člověk má 23 <a class="internal-link" data-href="Chromozom.md" href="biologie/subbio/chromozom.html" target="_self" rel="noopener nofollow">chromozomů</a>
+<br>Zde je uložená <a data-href="DNA" href="biologie/subbio/dna.html" class="internal-link" target="_self" rel="noopener nofollow">DNA</a>
+<br><a data-href="Replikace" href="biologie/subbio/replikace.html" class="internal-link" target="_self" rel="noopener nofollow">Replikace</a>
+
+<br>Zkopírování/zdvojení informace
+<br>Probíhá v jádru buňky
+
+
+<br><a data-href="Transkripce" href="biologie/subbio/transkripce.html" class="internal-link" target="_self" rel="noopener nofollow">Transkripce</a>
+<br><a data-href="Translace" href="biologie/subbio/translace.html" class="internal-link" target="_self" rel="noopener nofollow">Translace</a>
+<br>Histon
+
+<br>Okolo něho je obmotaná <a data-href="DNA" href="biologie/subbio/dna.html" class="internal-link" target="_self" rel="noopener nofollow">DNA</a>
+
+
+<br>Červené krvinky nemají DNA
+<br><br>
+<br>X
+
+<br>Karyotyp: Soubor všech chromozomů v jádře
+<br>Karyogram: Seřazené chromozomy v jádře
+
+
+<br>X
+
+<br>Gen: Kódují vlastnost, Je na konkrétním místě, Základní jednotka dědičnosti
+<br>Alela: Drží typ genu, 2 (a, A)
+
+
+<br>X
+
+<br>Genotyp: Soubor všech genů v rámci DNA
+<br>Fenotyp: Soubor všech pozorovatelných/měřitelných vlastností a znaků
+
+
+<br>X
+
+<br>Homozygot: Pro daný gen má dvě stejné alely (AA, aa)
+<br>Heterozygot: Pro daný gen má dvě různé alely (Aa)
+
+
+<br>X
+
+<br>Dominantní gen: Projeví se jestli je alespoň jedné kopii
+<br>Recesivní gen: Projeví se jen pokud je v dvojnásobné dávce
+
+
+<br>X
+
+<br>Monogenní geny: Dědičnost podmíněné jedním genem
+<br>Polygenní geny: Znak je děděn mnoha geny
+
+
+<br>X
+
+<br>Kvalitativní znkay: Dají se určit jen slovy
+<br>Kvantitativní znaky: Dají se určit číselně
+
+
+<br>X
+
+<br>Strukturní geny: Kódují molekuly proteinů
+<br>Regulační geny: Regulují transkripci jiných genů
+<br>RNA geny: Kódují různé geny <a data-href="RNA" href="biologie/subbio/rna.html" class="internal-link" target="_self" rel="noopener nofollow">RNA</a> (t-RNA, r-RNA)
+
+
+<br>Genový
+
+<br>lokus: Specifické místo genu na chromozomu
+<br>vazba: Geny nacházející se na stejném chromozomu
+
+
+<br>Crossing-Over
+
+<br>Proces, během kterého si dva homologní chromozomy vymění část svého DNA
+
+
+<br><br>
+<br>Neplatí:
+
+<br>Epigenetice
+<br>Gonozomální dedičnost
+<br>Bakteriální výměna
+<br>Genová vazba
+<br>Holandrická dědičnost
+<br>Mutace
+<br>Neúplná penetrace a variabilní expresivita
+<br>Interakce nealelálních genů
+<br>Polygenní a multifaktoriální dědičnost
+
+
+<br><a class="internal-link" data-href="EukaryotickaBunka" href="EukaryotickaBunka" target="_self" rel="noopener nofollow">Eukaryotická buňka</a><br>
+<a class="internal-link" data-href="PohlavniSoustava" href="biologie/pohlavnisoustava.html" target="_self" rel="noopener nofollow">Pohlavní soustava</a>]]></description><link>biologie/genetika.html</link><guid isPermaLink="false">Biologie/Genetika.md</guid><pubDate>Sun, 08 Jun 2025 09:04:54 GMT</pubDate></item><item><title><![CDATA[Chlamydie]]></title><description><![CDATA[ 
+ <br>
+<br>Bakterie: Chlamydia trachomatis (nitrobněční parazité)
+<br>(Bezpříznaková)
+<br>Příznaková
+]]></description><link>biologie/subbio/chlamydie.html</link><guid isPermaLink="false">Biologie/SubBio/Chlamydie.md</guid><pubDate>Mon, 14 Apr 2025 10:17:38 GMT</pubDate></item><item><title><![CDATA[Chromozom]]></title><description><![CDATA[ 
+ <br><br>
+<br>Gonozomy
+
+<br>X/Y
+<br>XX = žena
+<br>XY = muž
+
+
+<br>Downův syndrom
+
+<br>Trizonie 21 chromozomu
+
+
+<br>Kiwi má 174 chromozomů
+]]></description><link>biologie/subbio/chromozom.html</link><guid isPermaLink="false">Biologie/SubBio/Chromozom.md</guid><pubDate>Thu, 05 Jun 2025 17:24:03 GMT</pubDate></item><item><title><![CDATA[DNA]]></title><description><![CDATA[ 
+ <br><br>
+<br>Deoxyribonukleová kyselina
+<br>Skládá se z <a class="internal-link" data-href="DusikateBaze.md" href="biologie/subbio/dusikatebaze.html" target="_self" rel="noopener nofollow">dusíkatých bází</a> (Heterocykly)
+
+<br>Nemá uracil
+
+
+<br>Cukerná složka
+<br>Nukleotidy
+<br><a data-href="Protein" href="Protein" class="internal-link" target="_self" rel="noopener nofollow">Protein</a>
+
+<br>Aminokyseliny
+
+
+]]></description><link>biologie/subbio/dna.html</link><guid isPermaLink="false">Biologie/SubBio/DNA.md</guid><pubDate>Sun, 08 Jun 2025 08:34:34 GMT</pubDate></item><item><title><![CDATA[Dusíkaté báze]]></title><description><![CDATA[ 
+ <br><br><br>
+<br>Pyrimidinové báze
+
+<br>Vzniká z pyrimidinu<br>
+<img alt="Pyrimidine_2D_numbers.svg" height="89" src="lib/media/pyrimidine_2d_numbers.svg" style="width: 74px; max-width: 100%;">
+<br>Jsou jimi
+
+<br>Thymin<br>
+<img alt="Thymin.svg" height="97" src="lib/media/thymin.svg" style="width: 113px; max-width: 100%;">
+<br>Uracil<br>
+<img alt="Uracil.svg" src="lib/media/uracil.svg">
+<br>Cytosin<br>
+<img alt="Cytosine_chemical_structure.png" height="147" src="lib/media/cytosine_chemical_structure.png" style="width: 110px; max-width: 100%;">
+
+
+
+
+<br>Purinové báze
+
+<br>Vzniká z purinu<br>
+<img alt="9H-Purine.svg" src="lib/media/9h-purine.svg">
+<br>Jsou jimi
+
+<br>Adenin<br>
+<img alt="Adenine_numbered.svg" height="128" src="lib/media/adenine_numbered.svg" style="width: 127px; max-width: 100%;">
+<br>Guanin<br>
+<img alt="Guanine_chemical_structure.png" height="108" src="lib/media/guanine_chemical_structure.png" style="width: 130px; max-width: 100%;">
+
+
+
+
+]]></description><link>biologie/subbio/dusikatebaze.html</link><guid isPermaLink="false">Biologie/SubBio/DusikateBaze.md</guid><pubDate>Fri, 06 Jun 2025 18:47:02 GMT</pubDate><enclosure url="lib/media/pyrimidine_2d_numbers.svg" length="0" type="image/svg+xml"/><content:encoded>&lt;figure&gt;&lt;img src="lib/media/pyrimidine_2d_numbers.svg"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Endolymfa]]></title><description><![CDATA[ 
+ <br>
+<br>Hýbe se v uchu
+<br>Otírá se o <a data-href="vláskové buňky" href="vláskové buňky" class="internal-link" target="_self" rel="noopener nofollow">vláskové buňky</a>
+
+<br>Díky tomu se dá poznat odkud jde a její rychlost
+
+
+]]></description><link>biologie/subbio/endolymfa.html</link><guid isPermaLink="false">Biologie/SubBio/Endolymfa.md</guid><pubDate>Tue, 01 Apr 2025 11:15:34 GMT</pubDate></item><item><title><![CDATA[HIV]]></title><description><![CDATA[ 
+ <br>
+<br>Virus způsobující <a data-href="AIDS" href="AIDS" class="internal-link" target="_self" rel="noopener nofollow">AIDS</a>
+<br>Napadá B-lymfocyty
+<br>Občas se dá vyléčit
+]]></description><link>biologie/subbio/hiv.html</link><guid isPermaLink="false">Biologie/SubBio/HIV.md</guid><pubDate>Mon, 14 Apr 2025 10:22:39 GMT</pubDate></item><item><title><![CDATA[Kapavka]]></title><description><![CDATA[ 
+ <br>
+<br>Bakterie: Neisseria gonorrhoeae
+<br>Projev výtokem
+<br>Sliznice --&gt; zánět
+
+<br>Urogenitální trakt
+<br>Konečník
+<br>Nosohltan
+<br>Spojivky
+<br>(bezpříznaková)
+<br>Příznaková
+
+<br>Výtok
+
+
+
+
+]]></description><link>biologie/subbio/kapavka.html</link><guid isPermaLink="false">Biologie/SubBio/Kapavka.md</guid><pubDate>Mon, 14 Apr 2025 10:16:21 GMT</pubDate></item><item><title><![CDATA[Meióza]]></title><description><![CDATA[ 
+ <br>Dělení pohlavních buněk]]></description><link>biologie/subbio/meióza.html</link><guid isPermaLink="false">Biologie/SubBio/Meióza.md</guid><pubDate>Fri, 04 Apr 2025 10:17:17 GMT</pubDate></item><item><title><![CDATA[Mitóza]]></title><description><![CDATA[ 
+ <br>Buněčné dělení]]></description><link>biologie/subbio/mitóza.html</link><guid isPermaLink="false">Biologie/SubBio/Mitóza.md</guid><pubDate>Fri, 04 Apr 2025 10:17:29 GMT</pubDate></item><item><title><![CDATA[Protokooperace]]></title><description><![CDATA[ 
+ <br><br>Co je to protokooperace?<br>Protokooperace, známá také jako mutualismus, je typ symbiotického vztahu, ve kterém dva druhy spolupracují a oba z něj profitují. Jedná se o vzájemně prospěšnou interakci, kde každý druh poskytuje druhému něco užitečného.<br>Proč je protokooperace důležitá?<br>
+<br>Evoluční výhoda: Protokooperace zvyšuje šanci na přežití a reprodukci pro oba druhy zúčastněné.
+<br>Ekosystémová stabilita: Zvyšuje biologickou rozmanitost a stabilitu ekosystémů.
+<br>Základ pro složitější vztahy: Může vést k dalšímu vývoji a specializaci druhů.
+<br>Příklady protokooperace (s přesnými názvy druhů):<br>
+<br>
+Včela medonosná (Apis mellifera) a Kvetoucí rostliny (např. Slunečnice setevní – Helianthus annuus, Sedmikráska hajní – Bellis perennis, atd.):
+
+<br>Apis mellifera: Získává z květin nektar a pyl, které slouží jako potrava.
+<br>Rostliny (např. Helianthus annuus, Bellis perennis): Apis mellifera opyluje květiny, což umožňuje rostlinám reprodukci a produkci semen.
+<br>Typ: Opylování.
+
+
+<br>
+Myšák liščí (Rhizopogon luteolus) a Kořenový systém Dubu (Dub letní – Quercus robur) a Javoru jasaného (Acer pseudoplatanus):
+
+<br>Rhizopogon luteolus: Získává z kořenů rostlin cukry a sacharidy, které rostliny produkují fotosyntézou.
+<br>Kořenový systém Quercus robur a Acer pseudoplatanus: Rhizopogon luteolus pomáhá rostlinám získávat živiny z půdy, zejména fosfor a dusík, které rostliny samotné nedokážou efektivně získat.
+<br>Typ: Mykoryza (spojení kořenů rostlin a hub).
+
+
+<br>
+Ryba vráskavec čistící (Labroides dimidiatus) a Koral (např. Koral stromový – Acropora cervicornis, Koral mořský – Montastraea annularis):
+
+<br>Labroides dimidiatus: Získává z korálu parazity, řasy a další odumřelé organické hmoty, které slouží jako potrava.
+<br>Koral (Acropora cervicornis, Montastraea annularis): Labroides dimidiatus odstraňuje z korálu parazity a řasy, které by mohly korál poškodit a přispívá k jeho čistění a zdraví.
+<br>Typ: Čištění a ochrana.
+
+
+<br>
+Ptačí papoušek amazonský (Amazona aestiva) a Strom Akácie (Akácie trnitá - Acacia thornii):
+
+<br>Amazona aestiva: Získává z Akácie semena a kvetoucí části, které slouží jako potrava.
+<br>Akácie trnitá (Acacia thornii): Amazona aestiva se živí brouky a jinými škůdci, kteří by stromu mohli poškodit a tím ho chrání.
+<br>Typ: Ochrana před škůdci.
+
+
+<br>Důležité si zapamatovat:<br>
+<br>Protokooperace je složitý vztah a závisí na mnoha faktorech.
+<br>Vzájemné výhody nemusí být vždy stejné pro oba druhy.
+<br>Tyto vztahy se mohou v průběhu času měnit a vyvíjet.
+]]></description><link>biologie/subbio/protokooperace.html</link><guid isPermaLink="false">Biologie/SubBio/Protokooperace.md</guid><pubDate>Fri, 06 Jun 2025 18:47:02 GMT</pubDate></item><item><title><![CDATA[Replikace]]></title><description><![CDATA[ 
+ <br>
+<br>Zkopírování/zdvojení informace
+<br>Probíhá v
+
+<br>Jádro buňky
+<br>Mitochondrie
+
+
+<br>Postup<br>
+1. Helikeráza<br>
+2. Topoisomeráza<br>
+- Aby se <a data-href="DNA" href="biologie/subbio/dna.html" class="internal-link" target="_self" rel="noopener nofollow">DNA</a> nepřetrhnulo<br>
+3. Primása<br>
+- Vytváří počátek (Primer)<br>
+-<br>
+<img alt="image.png" height="224" src="lib/media/image.png" style="width: 465px; max-width: 100%;">
+]]></description><link>biologie/subbio/replikace.html</link><guid isPermaLink="false">Biologie/SubBio/Replikace.md</guid><pubDate>Thu, 05 Jun 2025 17:24:03 GMT</pubDate><enclosure url="lib/media/image.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib/media/image.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[RNA]]></title><description><![CDATA[ 
+ <br><br>
+<br>Skládá se z <a class="internal-link" data-href="DusikateBaze" href="biologie/subbio/dusikatebaze.html" target="_self" rel="noopener nofollow">dusíkatých bází</a>
+
+<br>Nemá thymin, má uracil
+
+
+<br>Glykosylace
+<br>Fosforylace
+<br>Acetylace
+
+<br>Zbytek kys. octové
+
+
+<br>Jednovláknová
+<br>Drží vodíkovými můstky
+<br>t-RNA
+<br>mRNA
+]]></description><link>biologie/subbio/rna.html</link><guid isPermaLink="false">Biologie/SubBio/RNA.md</guid><pubDate>Sun, 08 Jun 2025 08:36:15 GMT</pubDate></item><item><title><![CDATA[spermie]]></title><description><![CDATA[ 
+ <br>
+<br>Spermatogeneze
+
+<br>Je potřeba nižší teplota + testosteron
+<br>Sertoliho buňky
+
+<br>Podílejí se na výživě spermií
+
+
+<br>Leydigovy buňky
+
+<br>Zodpovědný za tvorbu testosteronu
+
+
+<br><a data-href="Mitóza" href="biologie/subbio/mitóza.html" class="internal-link" target="_self" rel="noopener nofollow">Mitóza</a>
+
+<br>Probíhá na začátku
+
+
+<br><a data-href="Meióza" href="biologie/subbio/meióza.html" class="internal-link" target="_self" rel="noopener nofollow">Meióza</a>
+
+
+<br>Spermiogeneze
+
+<br>Ztráta organel
+<br>Tvoří se bičík
+<br>Semanové kanálky a nadvarle
+<br>12 bilionů
+
+
+]]></description><link>biologie/subbio/spermie.html</link><guid isPermaLink="false">Biologie/SubBio/spermie.md</guid><pubDate>Mon, 14 Apr 2025 09:56:55 GMT</pubDate></item><item><title><![CDATA[Syfilis]]></title><description><![CDATA[ 
+ <br>
+<br><a data-href="Bakterie" href="onenote/skolazapisky/biologie/bakterie.html" class="internal-link" target="_self" rel="noopener nofollow">Bakterie</a>: Treponema pallidum
+<br>Příznaky
+
+<br>Primární - vřed v oblasti genitálií
+<br>Sekundární - <a data-href="Vyrážka" href="Vyrážka" class="internal-link" target="_self" rel="noopener nofollow">Vyrážka</a>
+<br>(Latentní)
+<br>Terciální
+
+<br>Zrak
+<br>Sluch
+<br>Nervový systém
+<br>oběhový systém
+
+
+
+
+]]></description><link>biologie/subbio/syfilis.html</link><guid isPermaLink="false">Biologie/SubBio/Syfilis.md</guid><pubDate>Mon, 14 Apr 2025 10:13:58 GMT</pubDate></item><item><title><![CDATA[Transkripce]]></title><description><![CDATA[ 
+ <br><br>Promotor - místo kde má nasedat RNA polymeráza<br>
+Poly A konec --&gt; 3', chrání, vede <a class="internal-link" data-href="RNA" href="biologie/subbio/rna.html" target="_self" rel="noopener nofollow">mRNA</a><br>
+Čepička --&gt; 5', rozpoznání ribozom<br>
+Primární transkripce je na 5' konci vybaven tzv. čepičkou vytvořenou]]></description><link>biologie/subbio/transkripce.html</link><guid isPermaLink="false">Biologie/SubBio/Transkripce.md</guid><pubDate>Sun, 08 Jun 2025 08:35:36 GMT</pubDate></item><item><title><![CDATA[Translace]]></title><description><![CDATA[ 
+ <br><br>K čemu slouží<br>
+<br>Převod <a data-href="RNA" href="biologie/subbio/rna.html" class="internal-link" target="_self" rel="noopener nofollow">RNA</a> na bílkovinu
+<br>
+]]></description><link>biologie/subbio/translace.html</link><guid isPermaLink="false">Biologie/SubBio/Translace.md</guid><pubDate>Sun, 08 Jun 2025 08:35:52 GMT</pubDate></item><item><title><![CDATA[Ekologie]]></title><description><![CDATA[ 
+ <br><br>
+<br>Zabývá se vztahy mezi organismy a neživou přírodou
+<br>Pojmy
+
+<br><a data-href="Biotop" href="Biotop" class="internal-link" target="_self" rel="noopener nofollow">Biotop</a>: Kde se konkrétní organismus vyskytuje
+<br>Areál: Geografická oblast (Kosmopolit, endemit)
+<br>Nika: Vazba mezi organismem a prostředím, Dva organismy v jenom niku si konkurují
+<br><a data-href="Ekosystém" href="Ekosystém" class="internal-link" target="_self" rel="noopener nofollow">Ekosystém</a>: Nějaká ucelená část přírody, živá i neživá
+<br><a data-href="Biom" href="Biom" class="internal-link" target="_self" rel="noopener nofollow">Biom</a>:  Soubor podobných ekosystémů
+<br><a data-href="Biosféra" href="Biosféra" class="internal-link" target="_self" rel="noopener nofollow">Biosféra</a>: Soubor všech ekosystémů
+<br>Populace: Pouze jednoho druhu
+<br><a data-href="Biocenóza" href="Biocenóza" class="internal-link" target="_self" rel="noopener nofollow">Biocenóza</a>: Hovoří o všech živých organizmech v rámci ekosystému; Fytocenóza (Rostlinky) a zoocenóza (Krtek) a mikoconóza (Houbičky) 
+<br><a data-href="Plankton" href="Plankton" class="internal-link" target="_self" rel="noopener nofollow">Plankton</a>: Mikroorganismus ve sloupci vody
+<br><a data-href="Bentos" href="Bentos" class="internal-link" target="_self" rel="noopener nofollow">Bentos</a>: Život na dně moří
+<br><a data-href="Edafon" href="Edafon" class="internal-link" target="_self" rel="noopener nofollow">Edafon</a>: Součást půdního procesu
+<br>Ekologická valence: 
+
+<br>Každý organismus prospívá v jiných vhodných podmínkách
+<br>Faktory
+
+<br>Teplota
+<br>Složení půdy
+<br>Znečištění
+
+
+
+
+<br>Abiotické faktory
+
+<br>Sluneční záření
+
+<br>Heliofyty (Bříza, dub)
+<br>Sciafyty
+
+
+<br>Teplota
+
+<br>endotermní a exotermní
+<br>eurytermní a stereotermní
+
+
+<br>Voda
+
+<br>Hydrofyty - žijí na vlhkých místech
+<br>Xerofyty - žijí na suchých místech
+
+
+<br>Půda (Její PH)
+
+<br>Nitrofilní - Vyžadují dusík,
+<br>Acidofilní
+<br>Bazifilní
+<br>Neutrofilní
+
+
+
+
+
+
+<br>Vztahy mezi druhy
+
+<br>Neutralismus
+<br><a data-href="Protokooperace" href="biologie/subbio/protokooperace.html" class="internal-link" target="_self" rel="noopener nofollow">Protokooperace</a> (+)
+<br>Komenzalismus (+)
+<br>Mutualismus (+)
+<br>Amenzalismus (-)
+<br>Kompetice (-)
+<br>Predace (-)
+<br>Parazitismus (-)
+
+
+<br>Koloběh živin
+
+<br>Producenti
+
+<br>Produkují cukry
+<br>Anorganické --&gt; organické látky
+<br>Fotosyntéza
+
+
+<br>Konzumenti
+
+<br>Řády
+
+<br>Býložravci: živí se producenty
+<br>Živí se konzumenty
+
+
+<br>Dekompozitéři
+
+<br>Odumřelá těla
+<br>Bakterie
+<br>Organické látky --&gt; anorganické
+
+
+
+
+
+
+<br>Zásobníky prvků
+
+<br>Atmosféra
+<br>Hydrosféra
+<br>Litosféra
+<br>Organismy
+<br>
+
+
+]]></description><link>biologie/ekologie.html</link><guid isPermaLink="false">Biologie/Ekologie.md</guid><pubDate>Fri, 06 Jun 2025 18:47:02 GMT</pubDate></item><item><title><![CDATA[Pohlavní soustava]]></title><description><![CDATA[ 
+ <br><br>
+<br>Funkce
+
+<br>Tvorba <a class="internal-link" data-href="hormon" href="hormon" target="_self" rel="noopener nofollow">hormonů</a>, pohlavních buněk
+
+
+<br>Mužské přirození
+
+<br>Je venku aby mohly dozrávat spermie
+<br>Stavba
+
+<br>Šourek
+
+<br>Varle
+
+<br>Zde se tvoří <a data-href="spermie" href="biologie/subbio/spermie.html" class="internal-link" target="_self" rel="noopener nofollow">spermie</a>
+<br>Semenotvorné kanálky
+
+<br>Dohromady mají asi 350m
+
+
+<br>Folikulostimulační hormon
+
+<br>Stimuluje tvorbu spermií 
+
+
+<br>Testosteron
+<br>Nadvarle
+
+<br>Zde se spermie stává pohybovatelnou (poslední fáze zrání)
+
+
+
+
+
+
+<br>Semenný váček
+
+<br>Semena jsou zde obohacena o fruktózu
+<br>Přidává spermatu prostatický sekret (zásadité)
+
+
+
+
+
+
+<br>Ženské přirození
+<br>Antikoncepční metody
+
+<br>Hormonální
+
+<br>Navazuje se na systém
+
+
+<br>Nehormonální
+
+<br>Např.
+
+<br>Kondom
+
+<br>Nezasahuje do těla
+<br>Ochrana před Chorobami
+
+
+<br>Nitroděložní tělísko
+
+<br>Jsou obmotané kovem (Cu a Ag) a ten zabíjí spermie
+
+
+<br>Spermicidní gel
+
+<br>Zabíjí spermie
+
+
+<br>Pesar
+
+<br>Zavádí se do ženy
+
+
+
+
+
+
+
+
+<br>Sexuálně přenosné choroby
+
+<br>Pomocí
+
+<br>Sekret sliznic
+<br>Krev
+<br>Sliny
+<br>Sperma
+
+
+<br>Choroby
+
+<br>Bakteriální
+
+<br><a data-href="Syfilis" href="biologie/subbio/syfilis.html" class="internal-link" target="_self" rel="noopener nofollow">Syfilis</a>
+<br><a data-href="Kapavka" href="biologie/subbio/kapavka.html" class="internal-link" target="_self" rel="noopener nofollow">Kapavka</a>
+<br><a data-href="Chlamydie" href="biologie/subbio/chlamydie.html" class="internal-link" target="_self" rel="noopener nofollow">Chlamydie</a>
+
+
+<br>Virové
+
+<br><a data-href="HIV" href="biologie/subbio/hiv.html" class="internal-link" target="_self" rel="noopener nofollow">HIV</a>
+
+
+
+
+
+
+]]></description><link>biologie/pohlavnisoustava.html</link><guid isPermaLink="false">Biologie/PohlavniSoustava.md</guid><pubDate>Thu, 22 May 2025 08:21:37 GMT</pubDate></item><item><title><![CDATA[Smyslová soustava]]></title><description><![CDATA[ 
+ <br><br>
+<br><a data-href="Aferentní" href="Aferentní" class="internal-link" target="_self" rel="noopener nofollow">Aferentní</a> (dostředivá)
+<br><a data-href="Eferentní" href="Eferentní" class="internal-link" target="_self" rel="noopener nofollow">Eferentní</a> (odstředivá)
+<br>Zrak<br>
+- Oči uloženy v očnici
+
+<br>Vlnové délky (380-780 nm)
+<br>Oči
+
+<br>Bělima
+<br>vazivo, tvar
+<br>Přechází v rohovku
+
+<br>Cévnatka
+
+<br>Přechází v
+
+
+<br>Duhovku (Svaly --&gt; zornice)
+<br>Řasnaté tělísko (hýbe s čočkou --&gt; zaostřuje)
+<br>Sítnice
+
+<br>Vlastní fotoreceptory
+<br>Tyčinky
+
+<br>Černobíle vidění
+<br>130 mil.
+<br>Rodopsin (vitamin A)
+
+
+<br>Čípky
+
+<br>Barevné vidění
+<br>8 mil.
+
+
+<br>Slepá skvrna - nervy
+
+
+<br>Sklivec
+
+<br>Rosolovitá hmota
+<br>Výplň oka
+
+
+
+
+
+
+<br>Další orgány
+
+<br>Okohybné svaly - bělima
+<br>Horní a dolní víčko
+<br>Řasy
+<br>Mazové žlázy
+<br>Slzné žlázy --&gt; slzné kanálky (voda, soli, lysozym <a data-href="antibakteriální" href="antibakteriální" class="internal-link" target="_self" rel="noopener nofollow">antibakteriální</a>)
+
+
+<br>Poruchy
+
+<br>Krátkozrakost
+
+<br>Spojené paprsků před sítnicí
+
+
+<br>Dalekozrakost
+
+<br>Spojené paprsků za sítnicí
+
+
+<br>Astigmatismus
+
+<br>Zkreslené vnímání
+<br>Linky nejsou rovné
+
+
+<br>Barvoslepost (daltonismus)
+
+<br>Více u mužů
+<br>Nevidí červenu a zelenou
+
+
+<br>Šeroslepost
+<br>Zelený zákal
+
+<br>Glaukom
+<br>Zvýšený tlak tekutin
+
+
+<br>Šedý zákal
+
+<br>Katarakta
+<br>Usazování solí na čočce
+
+
+
+
+
+
+<br>Sluch
+
+<br>Spánková kost
+<br>20 Hz - 20 kHz (nejostřejší v 1 kHz - 4 kHz)
+<br>Mechanoreceptory
+<br>Vnější ucho
+
+<br>Zachycení a předání zvuku
+<br>Terciální ochlupení 
+<br>Boltec
+
+<br>Chrupavka
+<br>Neustále roste
+
+
+<br>Zvukovod
+
+<br>Chloupky
+<br>Mazové žlázy
+
+
+<br>Bubínek
+
+<br>Blána - 0,1 mm
+<br>Nasedají ušní kůstky --&gt; zvyšují signál
+
+
+
+
+<br>Střední ucho
+
+<br>Sluchové kůstky
+
+<br>Kladívko
+<br>Kovadlinka
+<br>Třmínek
+
+
+<br>Eustachova trubice
+
+<br>Vyrovnávání tlaku
+
+
+<br>Sluchová a pohybová část
+
+<br>Kostěný labyrint kosti skalní
+
+<br>Perilymfa - tekutina
+
+
+<br>Blanitý labyrint
+
+<br>Váčky
+<br><a data-href="Endolymfa" href="biologie/subbio/endolymfa.html" class="internal-link" target="_self" rel="noopener nofollow">Endolymfa</a>
+
+
+<br>Předsíň + polokruhové chodby --&gt; poloha
+<br>Hlemýžď
+
+<br>Zvuk
+<br><a data-href="Endolymfa" href="biologie/subbio/endolymfa.html" class="internal-link" target="_self" rel="noopener nofollow">Endolymfa</a>
+<br>Cortiho orgán
+
+<br>Vláskové buňky
+<br>Sluchový nerv
+
+
+
+
+<br>Vestibulární ústrojí
+
+<br>Polokruhové chodby
+<br><a data-href="Endolymfa" href="biologie/subbio/endolymfa.html" class="internal-link" target="_self" rel="noopener nofollow">Endolymfa</a> + vláskové buňky
+<br>Úhlové zrychlení hlavy
+<br>Dlouhé točení
+
+
+<br>Vejčitý váček
+<br>Kulovitý váček
+
+<br>Statická čidla (poloha + horizontální a vertikální) --&gt; vlásková čidla
+<br>Otolity (CaCO) --&gt; kamínky
+
+
+<br>Oválné okénko - tlak
+
+
+
+
+
+
+<br>Chuť
+
+<br>Chemoreceptory --&gt; chuťové pohárky
+<br>Sliny
+<br><a data-href="Jazyk" href="Jazyk" class="internal-link" target="_self" rel="noopener nofollow">Jazyk</a>
+
+<br>Má <a data-href="klky" href="klky" class="internal-link" target="_self" rel="noopener nofollow">klky</a>
+
+
+<br>hltan, jícen
+<br>5 chuti
+
+<br>umami
+<br>slaná
+<br>hořká
+<br>sladká
+<br>kyselá
+
+
+
+
+<br>Čich
+
+<br>Chemoreceptory
+<br>10 000 pachů
+<br>Dutina nosní
+<br>Propojení
+<br>Časem se vnímání normalizuje --&gt; něco co smrdělo se za chvíli stane neutrální
+<br>
+
+
+]]></description><link>biologie/smyslovasoustava.html</link><guid isPermaLink="false">Biologie/SmyslovaSoustava.md</guid><pubDate>Thu, 22 May 2025 08:21:23 GMT</pubDate></item><item><title><![CDATA[Test BIO]]></title><description><![CDATA[ 
+ ]]></description><link>calendar/2025-06-10-test-bio.html</link><guid isPermaLink="false">Calendar/2025-06-10 Test BIO.md</guid><pubDate>Thu, 05 Jun 2025 17:24:03 GMT</pubDate></item><item><title><![CDATA[Test CJL mozna]]></title><description><![CDATA[ 
+ ]]></description><link>calendar/2025-06-12-test-cjl-mozna.html</link><guid isPermaLink="false">Calendar/2025-06-12 Test CJL mozna.md</guid><pubDate>Thu, 05 Jun 2025 17:24:03 GMT</pubDate></item><item><title><![CDATA[Test CJL mozna]]></title><description><![CDATA[ 
+ ]]></description><link>calendar/2025-06-11-test-cjl-mozna.html</link><guid isPermaLink="false">Calendar/2025-06-11 Test CJL mozna.md</guid><pubDate>Thu, 05 Jun 2025 17:24:03 GMT</pubDate></item><item><title><![CDATA[Test CJL mozna]]></title><description><![CDATA[ 
+ ]]></description><link>calendar/2025-06-09-test-cjl-mozna.html</link><guid isPermaLink="false">Calendar/2025-06-09 Test CJL mozna.md</guid><pubDate>Thu, 05 Jun 2025 17:24:03 GMT</pubDate></item><item><title><![CDATA[Test Fyzika]]></title><description><![CDATA[ 
+ ]]></description><link>calendar/2025-06-09-test-fyzika.html</link><guid isPermaLink="false">Calendar/2025-06-09 Test Fyzika.md</guid><pubDate>Thu, 05 Jun 2025 17:24:03 GMT</pubDate></item><item><title><![CDATA[Test Matematika]]></title><description><![CDATA[ 
+ ]]></description><link>calendar/2025-06-12-test-matematika.html</link><guid isPermaLink="false">Calendar/2025-06-12 Test Matematika.md</guid><pubDate>Thu, 05 Jun 2025 17:24:03 GMT</pubDate></item><item><title><![CDATA[Test z OSZ]]></title><description><![CDATA[ 
+ ]]></description><link>calendar/2025-06-13-test-z-osz.html</link><guid isPermaLink="false">Calendar/2025-06-13 Test z OSZ.md</guid><pubDate>Thu, 05 Jun 2025 17:24:03 GMT</pubDate></item><item><title><![CDATA[Antibiotika]]></title><description><![CDATA[ 
+ <br><a data-href="Peniciliny" href="Peniciliny" class="internal-link" target="_self" rel="noopener nofollow">Peniciliny</a><br>
+<br><a data-href="Fleming" href="Fleming" class="internal-link" target="_self" rel="noopener nofollow">Fleming</a> <a data-href="1928" href="1928" class="internal-link" target="_self" rel="noopener nofollow">1928</a>
+<br>Penicillium notatum, P.chrysogenum
+<br>Penicilin G -  intramuskulárně
+<br>Penicilin V - perorálně
+<br>Účinnost
+
+<br>Gram-pozitivní bakterie
+<br>Koky - angina, meningitida, kapavka
+
+
+<br>Cefalosporiny - syntetické, podobný účinek<br>
+<a data-href="Streptomycin" href="Streptomycin" class="internal-link" target="_self" rel="noopener nofollow">Streptomycin</a>
+<br>Antibiotikum sacharidového typu
+<br>Účinný proti Mycobacterium tuberculosis
+<br>Úzkospektrální<br>
+<a data-href="Chloramfenikol" href="Chloramfenikol" class="internal-link" target="_self" rel="noopener nofollow">Chloramfenikol</a><br>
+<a data-href="Tetracykliny" href="Tetracykliny" class="internal-link" target="_self" rel="noopener nofollow">Tetracykliny</a>
+<br>Nesmí malé děti
+<br>3 zástupci
+
+<br>Chlortetracyklin, oxytetracyklin, tetracyklin
+
+
+<br>Z rodu Streptomyces kultivací
+<br>Širokospektrální (I nějaké viry)
+<br>Proti skvrnitému tyfu, tularemii, bruceloze<br>
+<a data-href="Erythromycin" href="Erythromycin" class="internal-link" target="_self" rel="noopener nofollow">Erythromycin</a>
+<br>Makrolidové antibiotikum - s laktonovým kruhem s navázanými sacharidy
+<br>Širokospektrální
+<br>
+]]></description><link>chemie/antibiotika.html</link><guid isPermaLink="false">Chemie/Antibiotika.md</guid><pubDate>Fri, 04 Apr 2025 07:38:37 GMT</pubDate></item><item><title><![CDATA[Bachův Absolutismus]]></title><description><![CDATA[ 
+ <br><br>
+<br>Alexandr Bach
+
+<br>Ministr vnitra
+<br>Tajná policie
+<br>Rozšířil vojáky
+<br>Rušil cla
+
+
+<br>
+
+<br>Léta v Čechách
+
+
+<br>"Časy za živa pohřbené"
+<br>Liberální hospodářská politika
+
+<br>Zařizovány živnostenské úřady, komory
+<br>
+
+
+
+
+]]></description><link>dejepis/bachuvabsolutismus.html</link><guid isPermaLink="false">Dejepis/BachuvAbsolutismus.md</guid><pubDate>Thu, 22 May 2025 08:10:15 GMT</pubDate></item><item><title><![CDATA[Francie]]></title><description><![CDATA[ 
+ <br><a data-href="Dejiny" href="Dejiny" class="internal-link" target="_self" rel="noopener nofollow">Dejiny</a><br><br>
+<br><a data-href="Bonapartismus" href="Bonapartismus" class="internal-link" target="_self" rel="noopener nofollow">Bonapartismus</a> 
+
+<br>Drží si silné lidi okolo sebe
+<br>Nedbá na svobody lidu
+
+
+<br><a class="internal-link" data-href="1853" href="1853" target="_self" rel="noopener nofollow">1853-56</a> -- krymský výlka
+<br>Velká <a data-href="kolonializace" href="kolonializace" class="internal-link" target="_self" rel="noopener nofollow">kolonializace</a> <a class="internal-link" data-href="Afrika" href="Afrika" target="_self" rel="noopener nofollow">Afriky</a>
+<br>Hussmann - Přestavba Paříže
+<br>Komuna
+
+<br>Socialistický stát
+<br>Postavili je před zeď a zabili je (Pomohli mu Němci když ho sesadili)
+
+
+<br>Konec vlády <a data-href="1870" href="1870" class="internal-link" target="_self" rel="noopener nofollow">1870</a>
+<br><a data-href="1875" href="1875" class="internal-link" target="_self" rel="noopener nofollow">1875</a>
+
+<br>Stává se republikou
+<br>Společníkem Ruska
+<br>Velké investice (Později jim to znárodní Lenin)
+
+
+]]></description><link>dejepis/francie.html</link><guid isPermaLink="false">Dejepis/Francie.md</guid><pubDate>Thu, 24 Apr 2025 10:13:22 GMT</pubDate></item><item><title><![CDATA[HabsburskaMonarchie]]></title><description><![CDATA[ 
+ <br><br>
+<br>Kritika absolutismu
+<br>1860 - Říjnový diplom
+<br>1861 - Schmerlingova ústava
+<br>Uherský sněm
+<br>Čeští politici
+<br>
+]]></description><link>dejepis/habsburskamonarchie.html</link><guid isPermaLink="false">Dejepis/HabsburskaMonarchie.md</guid><pubDate>Thu, 22 May 2025 07:07:28 GMT</pubDate></item><item><title><![CDATA[Revoluce v Evropě]]></title><description><![CDATA[ 
+ <br><br><a data-href="Dejiny" href="Dejiny" class="internal-link" target="_self" rel="noopener nofollow">Dejiny</a><br>
+Rok <a data-href="1848" href="1848" class="internal-link" target="_self" rel="noopener nofollow">1848</a> - rok revolucí<br>
+<br>"Jaro národů"
+<br>Krok z občanské společnosti
+<br>Sjednocení státu
+
+<br><a data-href="Německo" href="Německo" class="internal-link" target="_self" rel="noopener nofollow">Německo</a>
+<br><a data-href="Itálie" href="Itálie" class="internal-link" target="_self" rel="noopener nofollow">Itálie</a>
+
+
+<br>Zrušení poddanství, roboty
+<br>Ústava - <a data-href="Francie" href="dejepis/francie.html" class="internal-link" target="_self" rel="noopener nofollow">Francie</a>, práva obyvatelům
+<br>Nebyly v <a data-href="Rusko" href="Rusko" class="internal-link" target="_self" rel="noopener nofollow">Rusko</a>, <a data-href="Anglie" href="Anglie" class="internal-link" target="_self" rel="noopener nofollow">Anglie</a>
+<br><br>
+<br><a data-href="Ludvík Filip Orlánský" href="Ludvík Filip Orlánský" class="internal-link" target="_self" rel="noopener nofollow">Ludvík Filip Orlánský</a> (po Karlovi X.)
+
+<br>Do roku <a data-href="1848" href="1848" class="internal-link" target="_self" rel="noopener nofollow">1848</a>
+<br>Konstituční monarchie
+<br>úspěšná zahraniční politika --&gt; kolonie v severní Africe
+<br><a data-href="1847" href="1847" class="internal-link" target="_self" rel="noopener nofollow">1847</a> - Lidi si začínají stěžovat
+<br><a data-href="1848" href="1848" class="internal-link" target="_self" rel="noopener nofollow">1848</a>
+
+<br>bankety
+
+<br>shromažďování lidí ve městech
+<br>22.2. byly zakázány
+<br>největší 25.2. --&gt; chtějí zvýšit životní úroveň, ozbrojený střet, L.F.O. útěk do <a data-href="Anglie" href="Anglie" class="internal-link" target="_self" rel="noopener nofollow">Anglie</a>
+
+
+
+
+
+
+<br><a data-href="Le Blanc" href="Le Blanc" class="internal-link" target="_self" rel="noopener nofollow">Le Blanc</a>
+
+<br>Republikán
+<br>V čele nespokojených Francouzů
+<br>Chce republiku
+
+
+<br>Parlament
+
+<br>Odhlasují, že se stanou republikou
+<br>Národní dílny
+
+<br>Pro poskytování pracovních míst
+<br>Za chvíli zjistili, že prodělávají
+<br>Zrušili je --&gt; naštvalo to dělníky
+
+
+<br><a data-href="1848" href="1848" class="internal-link" target="_self" rel="noopener nofollow">1848</a> <a data-href="Červen" href="Červen" class="internal-link" target="_self" rel="noopener nofollow">Červen</a> - ozbrojené povstání dělníků --&gt; instantně potlačeno
+<br>Bohatí si říkají, že je potřeba vláda pevné ruky
+<br>Vypracování ústavy, po vzoru USA v čele prezident
+
+
+<br><a data-href="Ludvík Napoleon Bonaparte" href="Ludvík Napoleon Bonaparte" class="internal-link" target="_self" rel="noopener nofollow">Ludvík Napoleon Bonaparte</a> (Příbuzný Napoleona)
+
+<br>Stal se prvním prezidentem
+<br>Změnil ústavu --&gt; prezidentem na 10 let
+<br><a data-href="1852" href="1852" class="internal-link" target="_self" rel="noopener nofollow">1852</a>
+
+<br>vojenský převrat --&gt; císař (<a data-href="Napoleon III." href="Napoleon III." class="internal-link" target="_self" rel="noopener nofollow">Napoleon III.</a>) --&gt; do roku <a data-href="1870" href="1870" class="internal-link" target="_self" rel="noopener nofollow">1870</a>
+<br><a data-href="Listopad" href="Listopad" class="internal-link" target="_self" rel="noopener nofollow">Listopad</a> - Francie znovu císařstvím
+
+
+
+
+<br><br>
+<br><a data-href="1848" href="1848" class="internal-link" target="_self" rel="noopener nofollow">1848</a> <a data-href="Březen" href="Březen" class="internal-link" target="_self" rel="noopener nofollow">Březen</a> - povstání proti <a data-href="Metternich" href="Metternich" class="internal-link" target="_self" rel="noopener nofollow">Metternich</a>ovi
+<br>Zavedení ústavy + práva
+<br>Lidé chtěli <a data-href="Ferdinanda I." href="Ferdinanda I." class="internal-link" target="_self" rel="noopener nofollow">Ferdinanda I.</a>, ne Metternicha
+
+<br>Lidé protestují
+<br>Ferdinand chtěl zakázat střelbu do občanů
+<br>Metternich utekl do <a data-href="Innsbruck" href="Innsbruck" class="internal-link" target="_self" rel="noopener nofollow">Innsbruck</a>u a odstoupil
+
+
+<br><a data-href="Radecký" href="Radecký" class="internal-link" target="_self" rel="noopener nofollow">Radecký</a> - velitel Rakouské armády<br>
+<a data-href="Uhersko" href="Uhersko" class="internal-link" target="_self" rel="noopener nofollow">Uhersko</a>, <a data-href="Slovensko" href="Slovensko" class="internal-link" target="_self" rel="noopener nofollow">Slovensko</a> (Západní Maďarsko)
+<br>Představitelé anti-maďarizace
+
+<br><a data-href="L. Kossúth" href="L. Kossúth" class="internal-link" target="_self" rel="noopener nofollow">L. Kossúth</a>
+<br><a data-href="S. Petöfi" href="S. Petöfi" class="internal-link" target="_self" rel="noopener nofollow">S. Petöfi</a>
+
+
+<br>Žádosti slovenského národa
+<br><a data-href="L. Štúr" href="L. Štúr" class="internal-link" target="_self" rel="noopener nofollow">L. Štúr</a>, <a data-href="J. Král" href="J. Král" class="internal-link" target="_self" rel="noopener nofollow">J. Král</a> (slovenský básník)
+<br>Maďaři úspěšní --&gt; vlastní zákony + ústava
+<br>Slováci --&gt; jsou v prdeli
+<br><br>
+<br><a data-href="Berlín" href="Berlín" class="internal-link" target="_self" rel="noopener nofollow">Berlín</a>
+<br>Sněm (celoněmecký)
+
+<br>Cíl: Jak se spojí
+
+<br>Maloněmecká varianta: Pouze Německo
+<br>Velkoněmecká varianta: Německo a místa, kde se mluví německy
+
+
+<br>Češi nechtěli velkoněmeckou --&gt; obrátili se na Františka Palackého
+
+<br>Ten jen napsal dopis (Na sněm nepřijel) "Dopis do Frankfurtu"
+<br>Češi nemůžou být součástí Německa (Rozdílná historie + jazyk)
+<br>Chtěli maloněmecké sjednocení
+
+
+<br>Habsburská monarchie byla proti
+
+<br>Německo ustoupilo
+<br>Vymysleli si ústavu
+<br><a data-href="1849" href="1849" class="internal-link" target="_self" rel="noopener nofollow">1849</a> chtěli zkusit znovu --&gt; nabídli to Pruskému králi --&gt; odmítl (Nebyl by z boží milosti) --&gt; zrušeno poddanství
+
+
+
+
+<br><br>
+<br>Většina patřila jiným státům (Sardinie patřila Itálii)
+<br>"Risorgimento" = sjednocení
+<br>Giuseppe Garitaldi --&gt; měl vyvolat protesty
+<br>Karbonáři (revolucionáři) = stoupenci vyvoláváním protestů od jihu
+<br><a data-href="1849" href="1849" class="internal-link" target="_self" rel="noopener nofollow">1849</a> bitva u Custozy - vyhraje Rakousko = Itálie se nesjednotí
+<br><br>
+<br>Březen - Vídeň - Alexandr von Bach
+<br>Bachovský absolutismus (neoabsolutismus)
+<br>Pillersdorfova ústava (čistě formálně)
+
+<br>Císař stále rozhodující slovo
+<br>Císař vládne z boží milosti
+<br>Žádná změna
+
+
+<br>Uhry
+
+<br>Získali vnitřní autonomii
+<br><a data-href="Prosinec" href="Prosinec" class="internal-link" target="_self" rel="noopener nofollow">Prosinec</a> <a data-href="1848" href="1848" class="internal-link" target="_self" rel="noopener nofollow">1848</a> --&gt; František Josef I.
+
+
+<br>Hrabě Stadion
+
+<br>Udělal další ústavu (Spoiler alert! Taky stála za hovno)
+
+
+<br>Požadavky
+
+<br>František Palacký - Austroslavismus
+
+<br>Autonomie v habsburské monarchii
+<br>Rovnocennost národů
+
+
+<br>Posílají (F. Brauner) petici do Vídně
+
+<br>Autonomie Čech (Vlastní sněm a vláda)
+<br>Zrovnoprávnění čj a nj
+<br>Svoboda tisku + slova + shromažďování
+<br>Zrušení roboty
+<br>Na vysokých školách výuka česky
+<br>Zrušení poddanství
+
+
+
+
+<br>Odpověď
+
+<br>Sliby chyby
+<br><a data-href="Červen" href="Červen" class="internal-link" target="_self" rel="noopener nofollow">Červen</a> - Slovanský sjezd
+
+<br>Žofín
+<br>Společný postup
+
+
+<br>11.6.
+
+<br>Společná mše
+<br>Šli ulicemi
+<br>Stavěli barikády
+<br>Trvalo to asi týden
+<br>Postřelena manželka Windischgrätze --&gt; pokud se nevzdají, bude ostřelovat Prahu
+<br>Konec neúspěšný
+
+
+<br><a data-href="Září" href="Září" class="internal-link" target="_self" rel="noopener nofollow">Září</a> <a data-href="1848" href="1848" class="internal-link" target="_self" rel="noopener nofollow">1848</a> - Zrušení poddanství a roboty
+
+
+<br>Odcházejí starší politici (František Palacký)
+<br>Nový politici --&gt; J. V. Frič
+<br>Chceme, aby se Maďaři stáhli a aby byla ústava
+
+<br>Ferdinand V. abdikuje
+<br><a data-href="František Josef I." href="František Josef I." class="internal-link" target="_self" rel="noopener nofollow">František Josef I.</a>
+
+<br>Konzervativní
+<br>Proti změnám
+<br>Rozehnal kroměřížský sněm️
+<br>Bitva u Világoše --&gt; revoluční Maďaři poraženi️
+
+
+<br>
+
+
+]]></description><link>dejepis/revolucevevrope.html</link><guid isPermaLink="false">Dejepis/RevoluceVEvrope.md</guid><pubDate>Thu, 22 May 2025 08:18:50 GMT</pubDate></item><item><title><![CDATA[Dědické právo]]></title><description><![CDATA[ 
+ <br><br>
+<br>Zemřelý = zůstavitel
+<br>Dědicové = Pozůstalý
+<br>Dědické třídy
+
+<br>
+
+<br>dědická třída
+
+
+<br>Děti + Manžel/manželka - všichni dědí stejným dílem
+<br>Když děti už nežijí ---&gt; dostanou děti dětí
+
+
+<br>
+
+<br>dědická třída
+
+
+<br>Manžel
+<br>Ten co žil se zůstavitelem déle jak rok
+<br>Rodiče
+
+
+<br>
+
+<br>dědická třída
+
+
+<br>Dědí stejným dílem zůstavitelovi sourozenci
+
+
+<br>
+
+<br>dědická třída
+
+
+<br>Prarodiče zůstavitele
+
+
+<br>
+
+<br>dědická třída
+
+
+<br>Prarodiče rodičů zůstavitele
+
+
+<br>
+
+<br>dědická třída
+
+
+<br>Dědí děti sourozenci zůstavitele
+
+
+<br>Pokud není dědic --&gt; získává stát
+
+
+<br>Závěť (Testament)
+
+<br>Rozděluje dědictví
+<br>Může se rozhodnout to změnit
+<br>Směrodatný dokument
+<br>Jednostranný právní úkon
+<br>2 možnosti jak koncipovat
+
+<br>Napsat rukou: Stačí podpis
+<br>Napsáno na PC/psací stroj: Potřebuje alespoň 2 svědky
+
+
+<br>Můžete ji uložit k notáři do úschovy
+
+
+<br>Zřeknutí se dědictví
+
+<br>Nemůžete před zůstavitelovou smrtí
+<br>Pak připadá státu
+
+
+]]></description><link>osz/dedickepravo.html</link><guid isPermaLink="false">OSZ/DedickePravo.md</guid><pubDate>Thu, 22 May 2025 08:12:58 GMT</pubDate></item><item><title><![CDATA[Lidská práva]]></title><description><![CDATA[ 
+ <br><br>
+<br>Základní lidská práva
+<br>Pro dožadování se vlastních práv
+<br><a data-href="Historie" href="Historie" class="internal-link" target="_self" rel="noopener nofollow">Historie</a><br>
+- Počátky ve středověku<br>
+- Pouze pro menší skupinu lidí<br>
+- Anglie 12. stol<br>
+- <a data-href="1215" href="1215" class="internal-link" target="_self" rel="noopener nofollow">1215</a> - Velká listina svobod (Magna karta Libertatum), Jan Bezzemek<br>
+- <a data-href="1776" href="1776" class="internal-link" target="_self" rel="noopener nofollow">1776</a> - Deklarace nezávislosti<br>
+- <a data-href="1789" href="1789" class="internal-link" target="_self" rel="noopener nofollow">1789</a> - Deklarace práv člověka a občana<br>
+- <a data-href="1948" href="1948" class="internal-link" target="_self" rel="noopener nofollow">1948</a> - Všeobecná deklarace lidských práv<br>
+- <a data-href="1975" href="1975" class="internal-link" target="_self" rel="noopener nofollow">1975</a> - Závěrečný akt<br>
+- Konference v Helsinkách<br>
+- Východoevropské země ho přijali ale nedodržovali až do roku <a data-href="1989" href="1989" class="internal-link" target="_self" rel="noopener nofollow">1989</a><br>
+- <a data-href="2013" href="2013" class="internal-link" target="_self" rel="noopener nofollow">2013</a>/<a class="internal-link" data-href="2014" href="2014" target="_self" rel="noopener nofollow">14</a> Nový občanský zákoník<br>
+- Snaží se sjednotit dualitu<br>
+- Zákon na nájem, podnájem a vlastnictví bytů<br>
+- Zákon o rodině, sdružování občanů, odpovědnosti za škodu, cenných papírech<br>
+1) Lidská práva důležitější, než zájem státu (stát = ochránce práv)<br>
+2) Vůle je důležitější, než rozhodnutí státu (smlouvy)<br>
+3) Každý může usilovat o vlastní štěstí =&gt; Nesmí omezovat druhé<br>
+<a data-href="ObcanskePravo" href="osz/obcanskepravo.html" class="internal-link" target="_self" rel="noopener nofollow">ObcanskePravo</a><br>
+<a data-href="VerejnePravo" href="osz/verejnepravo.html" class="internal-link" target="_self" rel="noopener nofollow">VerejnePravo</a><br>
+<a data-href="VlastnickePravo" href="osz/vlastnickepravo.html" class="internal-link" target="_self" rel="noopener nofollow">VlastnickePravo</a>
+]]></description><link>osz/lidskaprava.html</link><guid isPermaLink="false">OSZ/LidskaPrava.md</guid><pubDate>Fri, 23 May 2025 10:54:50 GMT</pubDate></item><item><title><![CDATA[Občanské právo]]></title><description><![CDATA[ 
+ <br><br>
+<br>Historie
+
+<br>Již v antice --&gt; Corpus Ivris Civilis
+<br><a data-href="1804" href="1804" class="internal-link" target="_self" rel="noopener nofollow">1804</a> Napoleonův kodex --&gt; Code Civil
+
+<br>Napoleon Bonaparte je průkopníkem v tomto, sám se na tom podílel
+
+
+<br>Všeobecný zákoník občanský (V <a class="internal-link" data-href="Rusko" href="Rusko" target="_self" rel="noopener nofollow">RU</a>)
+<br>Inspirovali se tím i <a class="internal-link" data-href="Komunismus" href="Komunismus" target="_self" rel="noopener nofollow">komunisté</a>
+
+<br>Několikrát novelizován
+<br>Nedošlo do roku <a data-href="2014" href="2014" class="internal-link" target="_self" rel="noopener nofollow">2014</a> ke změně (<a data-href="2013" href="2013" class="internal-link" target="_self" rel="noopener nofollow">2013</a> schválen)
+
+
+
+
+<br>Nový zákoník
+
+<br><a data-href="Zákon" href="onenote/skolazapisky/osz/právo/zákon.html" class="internal-link" target="_self" rel="noopener nofollow">Zákon</a> o nájmu a podnájmu, vlastnictví bytů, rodině, sdružování občanů, odpovědnosti za škodu
+<br>Chrání lidi
+<br>Autonomie vůle (Důležitější než nařízení státu (V právním rámci))
+<br>Každý může usilovat o vlastní štěstí dle libosti, ale nesmí omezovat práva druhých
+
+
+<br>Subjekty        
+
+<br>Fyzické osoby
+
+<br>Právní osobnost
+
+<br>Všichni lidé mají <a data-href="Právo" href="Právo" class="internal-link" target="_self" rel="noopener nofollow">Právo</a> tady žít
+<br>Máme <a data-href="Právo" href="Právo" class="internal-link" target="_self" rel="noopener nofollow">Právo</a> žít
+
+
+<br>Svéprávnost
+
+<br>Zodpovědnost sám za sebe
+<br>Práva i povinnosti
+<br>Emancipace
+
+<br>Dřívější udělení svéprávnosti
+
+
+<br>Vedení firmy =&gt; schopnost žít samostatně
+<br>Uzavření sňatku
+
+
+
+
+
+
+<br>Právnické osoby
+
+<br>Právní osobnost
+
+<br>Od vzniku po ukončení
+
+
+<br>Typy
+
+<br>Spolky
+
+<br>Hlavní činnost není <a data-href="Podnikání" href="onenote/skolazapisky/osz/tržní-hospodářství/podnikání.html" class="internal-link" target="_self" rel="noopener nofollow">Podnikání</a>
+<br>Název musí mít mí z. s.
+
+
+<br>Korporace
+
+<br>Za účelem <a data-href="Podnikání" href="onenote/skolazapisky/osz/tržní-hospodářství/podnikání.html" class="internal-link" target="_self" rel="noopener nofollow">Podnikání</a>
+
+
+<br>Fundace
+
+<br>Nadace/nadační fondy
+
+
+<br>Ústavy
+
+<br>Za účelem užitečné činnosti
+<br>Hospodářské/společenské využití
+<br>Prostředky musí využít na vlastní činnost
+
+
+<br>Stát
+
+<br>Může vstupovat do občanskoprávních řízení
+<br>Dědické řízení
+
+
+
+
+
+
+
+
+<br>Občanskoprávní vztahy
+
+<br>Věci
+
+<br>Hmotné
+
+<br>Movité
+
+<br>Dají se přenášet
+<br>Spotřební zboží
+
+
+<br>Nemovité
+
+<br>Nepřenositelné
+<br>Domy, pozemky --&gt; musí být zapsány v katastru nemovitostí
+
+
+<br>Spotřebitelné
+
+<br>Jednorázová spotřeba
+
+
+<br>Opotřebitelné
+
+<br>Hodnota se snižuje používáním
+
+
+<br>Zastupitelné/hromadné
+
+<br>Hodnota je pouze dávána nějakému většímu množství (viz písek)
+
+
+<br>Nezastupitelné
+<br>Dělitelné
+
+<br>Rozdělením neztrácí hodnou
+
+
+<br>Nedělitelné
+
+<br>Rozdělením ztrácí hodnotu
+
+
+<br>Hlavní
+
+<br>Samotná tato věc je hodnotná
+
+
+<br>Součást
+
+<br>Je potřeba více součástí aby se mohla stát věcí
+
+
+<br>Příslušnost
+
+<br>Povinná výbava (Autolékárnička)
+
+
+
+
+
+
+
+
+<br><a data-href="VlastnickePravo" href="osz/vlastnickepravo.html" class="internal-link" target="_self" rel="noopener nofollow">VlastnickePravo</a>
+<br><a data-href="DedickePravo" href="osz/dedickepravo.html" class="internal-link" target="_self" rel="noopener nofollow">DedickePravo</a>
+]]></description><link>osz/obcanskepravo.html</link><guid isPermaLink="false">OSZ/ObcanskePravo.md</guid><pubDate>Thu, 22 May 2025 08:12:53 GMT</pubDate></item><item><title><![CDATA[Politologie]]></title><description><![CDATA[ 
+ <br><br>
+<br>Čím se zabývá
+
+<br>Politickými skupinami
+<br>Ideologiemi
+<br>Chování jedince
+
+
+<br>Disciplíny
+
+<br>Obecná
+
+<br>Zabývá se sama sebou
+<br>Je to převážně o její historii
+<br>Evropská X Americká část
+<br>Vývoj politických škol
+<br>Vztah k jiným vědám
+
+
+<br>Politické teorie
+
+<br>Filozofie
+<br>Hlavní autoři
+
+
+<br>Srovnávací politologie
+
+<br>Srovnává např. typů ústav, státních zřízení
+
+
+<br>Politické instituce
+
+<br>Moc výkonná, zákonná, soudní
+
+
+<br>Mezinárodní vztahy
+
+<br>Velmi náročná disciplína
+<br>Uzavírání smluv
+<br>Domluva mezi státy
+
+
+
+
+<br>Výzkum
+
+<br>Cesty
+
+<br>Normativní politologie
+
+<br>Co je cíl politologie
+<br>Jaké jsou hodnoty politologie
+<br>Politická kultura
+
+
+<br>
+<br>Prognostická politologie
+
+<br>Předpověď jak se bude politika rozvíjet
+<br>Předvídají realitu
+
+
+
+
+
+
+<br><br>
+<br>Praxe 
+<br>Politická činnost
+
+<br>Nějakých politických subjektů
+<br>Politický subjekt
+
+<br>Organizace
+<br>Disponují mocí
+
+
+<br>Politický objekt
+
+<br>Občané
+<br>Nemají moc
+
+
+<br>Vliv
+
+<br>Např. Forma moci
+<br>Autorita
+
+
+<br>Prostředky
+<br>Střety demokratických názorů --&gt; Najít společné řešení
+
+
+<br><br>
+<br><a data-href="Filozofie" href="Filozofie" class="internal-link" target="_self" rel="noopener nofollow">Filozofie</a>
+<br><a data-href="Sociologie" href="Sociologie" class="internal-link" target="_self" rel="noopener nofollow">Sociologie</a>
+<br><a data-href="Historie" href="Historie" class="internal-link" target="_self" rel="noopener nofollow">Historie</a>
+<br><a data-href="Psychologie" href="Psychologie" class="internal-link" target="_self" rel="noopener nofollow">Psychologie</a>
+<br><a data-href="Ekonomie" href="Ekonomie" class="internal-link" target="_self" rel="noopener nofollow">Ekonomie</a>
+<br><a class="internal-link" data-href="Pravo" href="Pravo" target="_self" rel="noopener nofollow">Právo</a>
+<br><br>
+<br>Historická
+<br>Komparativní
+<br>Behavioristická metoda
+<br>Metoda SWOT
+
+<br>Chování v politice
+<br>Určení silných a slabých stránek
+<br>Po analýze + a - to vyhlásí
+
+
+<br>Geografická metoda
+<br><br>
+<br>Pokrok
+
+<br>Zbytkové právo
+<br>Existence písma
+<br>Existence společenských vztahů
+
+
+<br>Koncepce vzniku státu
+
+<br>Teologická koncepce
+
+<br>Stát je vytvořen bohem
+<br>Hodně uplatněno ve středověku
+<br>Jde vidět i v novodobých dějinách viz Japonsko
+
+<br><a class="internal-link" data-href="Sintoismus" href="Sintoismus" target="_self" rel="noopener nofollow">Šintoismus</a>
+
+<br>Hlavní bohyně Amateresu
+<br>Císaři byli boží syni
+
+
+<br>Až do 2. světové války (<a data-href="1946" href="1946" class="internal-link" target="_self" rel="noopener nofollow">1946</a>)
+
+
+
+
+<br>Patriarchální
+
+<br>Stát je větší rodina
+
+
+<br>Mocenská
+
+<br>Podle toho kdo je nejschopnější
+<br>Vládne slabším
+<br>Diktatury
+
+
+<br>Smluvní
+
+<br>Kompromis
+<br>Protože to předtím nefungovalo
+<br>"Stát lidi zotročuje" - nějaký chytrý člověk
+
+
+
+
+<br><br>
+<br>Má teritorium (Pozemní, vzdušný a námořní)
+<br>Státní moc
+<br>Obyvatelstvo
+<br>Státní suverenita - vnější, uznání ostatních států
+<br>Vnitřní suverenita
+
+<br>Není závislý na jiném subjektu ve státě
+<br>Vláda vykonává jak ona chce
+
+
+]]></description><link>osz/politologie.html</link><guid isPermaLink="false">OSZ/Politologie.md</guid><pubDate>Fri, 06 Jun 2025 18:47:02 GMT</pubDate></item><item><title><![CDATA[Rodinné právo]]></title><description><![CDATA[ 
+ <br><br>
+<br>Zánik manželství
+
+<br>Smrt
+
+<br>Stává se vdovcem/vdovou
+
+
+<br>Prohlášení za mrtvého (Trvá 6 let)
+
+<br>Dlouhodobá nepřítomnost/nezvěstnost
+
+
+<br>Rozvod
+
+<br>Nejčastější forma
+<br>Dohodnutí o rozvodu
+<br>Musí se dodat důvod
+<br>Řešeno v občanském soudním řízení
+
+<br>Navrhovatel X odpůrce
+
+
+<br>Soud dává přednost dohodě manželů
+
+<br>Rozdělení dětí a majetku
+
+
+<br>Rozdělení majetku
+
+<br>Předmanželská smlouva to dělá jasné
+<br>Dohoda
+<br>Soud rozhoduje rovným dílem
+
+
+<br>Byt připadá tomu, kdo má dítě
+
+
+<br>Soud je nemusí rozvést
+
+
+
+
+<br>Vztahy mezi rodiči a dětmi
+
+<br>Stejné jako mezi manžely
+<br>Povinní vychovávat
+<br>Vyživovací povinnost
+<br>Určení otcovství
+
+<br>Předpoklady
+
+<br>Otcem vdané ženy je její manžel
+<br>Muž, který své otcovství uzná
+<br>Muž, který měl s ženou pohlavní styk v inkriminované době
+
+
+<br>Odmítnutí otcovství
+
+<br>Lhůta za zákonu (Do 6 měsíců po tom co se dozví)
+<br>Pouze do 6 let věku dítěte
+
+
+
+
+
+
+<br>Institut náhradního rodičovství
+
+<br>Osvojení
+
+<br>Musí od státu dostat povolení
+<br>Mohou si napsat preference
+
+
+<br>Osvojení prosté
+
+<br>Nezapisují se do matriky
+<br>Soud může odebrat to dítě
+<br>"Osvojení na zkoušku"
+<br>Dítě může podat návrh, že nechce pokračovat
+
+
+<br>Osvojené nezrušitelné
+
+<br>Dítě se přímo stává rodinou
+<br>Dítěti musí být víc jak 1 rok
+<br>Nemůže se zrušit
+
+
+
+
+<br>"Adopce" na dálku
+
+<br>Posílání prostředků dítěti na živobytí
+
+
+
+
+<br>Poručenství
+
+<br>Nařízeno soudem --&gt; určí poručníka
+<br>Když rodiče nejsou schopni se o dítě starat
+<br>Poručník
+
+<br>Obvykle blízká rodina
+<br>Nemají vyživovací povinnost (Stát jim přispívá)
+
+
+<br>Konec
+
+<br>Dítěti je 18
+<br>Rodič se stává znovu schopný se o dítě starat
+<br>Smrt poručníka
+<br>Přivlastnění
+
+
+
+
+<br>Pěstounství
+
+<br>Nevzniká příbuzenství
+<br>Dostávají odměnu za starost o dítě (+-30k)
+<br>Rodič se tím nezbavuje povinností živnosti
+
+
+<br>Individuální
+<br>Kolektivní
+
+
+
+
+]]></description><link>osz/rodinnepravo.html</link><guid isPermaLink="false">OSZ/RodinnePravo.md</guid><pubDate>Thu, 05 Jun 2025 17:30:59 GMT</pubDate></item><item><title><![CDATA[Trestní právo]]></title><description><![CDATA[ 
+ <br><br>
+<br>Hmotné 
+
+<br><a data-href="Trestnost" href="Trestnost" class="internal-link" target="_self" rel="noopener nofollow">Trestnost</a> byla dána před spácháním (Skutková podstata trestného činu)
+<br>Typy
+
+<br><a class="internal-link" data-href="Precin" href="Precin" target="_self" rel="noopener nofollow">Přečiny</a>
+
+<br>Méně závažný
+<br>Do 5 let odnětí svobody
+<br>Např.
+
+<br>Ublížení na zdraví
+<br>Padělatelství 
+<br>Zabití
+
+
+
+
+<br><a class="internal-link" data-href="Zlocin" href="Zlocin" target="_self" rel="noopener nofollow">Zločiny</a>
+
+<br>Kolem 10 let odnětí svobody
+<br>Např.
+
+<br>Vražda
+
+
+
+
+
+
+
+
+<br>Procesní
+
+<br>Přípravné řízení
+
+<br>Zajištění obviněných (pachatelů), svědků
+
+
+<br>Předběžné porovnání obžaloby
+
+<br>Kontakt se státním zástupcem
+<br>Návrh na obžalobu - pachatel se stává obžalovaným
+
+
+<br>Hlavní líčení
+
+<br>Soudce může odročen
+<br>Rozhodnutí
+
+
+<br>Výrok
+<br>
+<br>Pouční o odvolání
+
+
+
+
+<br>
+<br><a class="internal-link" data-href="Pachatel" href="Pachatel" target="_self" rel="noopener nofollow">Pachatelé</a> trestného činu
+
+<br>Jeden
+<br>Více
+
+<br>Spolupachatel má stejnou vinnu jako pachatel
+<br>Dělení účastníků na trestné m činu
+
+<br>Organizátor
+
+<br>Organizace trestného činu
+<br>Řídí proces
+<br>Nemusí vykonávat
+
+
+<br>Návodce
+
+<br>Ten co chtěl aby se ten čin stal a činní něco k tomu
+<br>Zaplatí si vraždu
+
+
+<br>Pomocník
+
+<br>Napomáhá k udělání trestního činu
+<br>Řidič
+
+
+
+
+
+
+
+
+<br><a class="internal-link" data-href="Mladistvi" href="Mladistvi" target="_self" rel="noopener nofollow">Mladiství</a>
+
+<br>Do 15 let věku nemůže být potrestáno
+
+<br>Prakticky beztrestné
+<br>Za majetkovou ujmu jsou zodpovědní rodiče
+
+
+<br>Od 15 do 18 let
+
+<br>Náleží mu polovina trestu oproti dospělému
+<br>Max 5 let odnětí svobody (Normální)
+<br>Max 10 let odnětí svobody (Speciální)
+
+
+
+
+<br>Podmínky vylučující trestnost
+
+<br>Nepříčetnost
+<br>Krajní nouze
+<br>Stav nutné obrany
+<br>Svolení poškozeného (Neplatí na ublížení na zdraví/smrt)
+<br>Oprávněné držení zbrani
+
+
+<br>Trestní sankce
+
+<br>Polehčující okolnosti
+
+<br>Vražda ze soucitu
+<br>Spáchání pod vlivem okolností
+<br>Věk blízko mladistvému
+<br>Spolupracující
+<br>Spáchal poprvé
+
+
+<br>Přitěžující okolnosti
+
+<br>Úkladná vražda
+<br>Trýznivý způsob
+<br>Zneužití postavení
+<br>Na dítěti
+<br>Krizová situace
+<br>Rabování
+<br>Recidiva (Opakující se trestná činnost)
+
+
+<br>Druhy
+
+<br>Podmíněný
+
+<br>Dopustí li se dalšího trestního činu tak se stane nepodmíněným
+
+
+<br>Nepodmíněný
+<br>Odnětí svobody
+
+<br>Jde se do vězení
+
+
+<br>Vyšetřovací vazba (Pouze pro obžalovaného)
+<br>S ostrahou (Volný pohyb po věznici, může pracovat)
+<br>S zvýšenou ostrahou (Všude doprovázen)
+
+
+<br>Domácí vězení
+
+<br>Moderní řešení
+<br>Dostává náramek, který ho kontroluje
+
+
+<br>Veřejně prospěšné práce
+
+<br>Někdo se za něj musí zaručit 
+<br>50-300h
+
+
+<br>Propadnutí majetku
+<br>Peněžitý trest
+<br>Propadnutí věci
+
+<br>To co bylo použito k zločinu
+
+
+<br>Zákaz pobytu
+<br>Ztráta titulu a vyznamenání
+<br>Ztráta vojenské hodnosti
+<br>Vyhoštění
+
+<br>Týká se cizinců
+<br>Na určitý čas - na doživotí
+
+
+
+
+
+
+<br>Okruhy trestních činů
+
+<br>Proti životu
+<br>Proti svobodě
+
+<br>Obchodování s lidmi
+<br>Braní rukojmí
+
+
+<br>Proti zdraví
+<br>Proti rodině a dětem
+<br>Proti osobnosti
+
+<br>Pomluva
+
+
+<br>Obecně ohrožující
+
+<br>Neoprávněné držení zbraně
+
+
+<br>Proti výkonu pravomoci úřední osoby
+<br>Narušující soužití
+<br>Proti vojenské podřízenosti
+
+
+]]></description><link>osz/trestnipravo.html</link><guid isPermaLink="false">OSZ/TrestniPravo.md</guid><pubDate>Thu, 05 Jun 2025 17:24:03 GMT</pubDate></item><item><title><![CDATA[Veřejné právo]]></title><description><![CDATA[ 
+ <br><br>
+<br>Stát má nadřazenou pozici
+<br><a data-href="Nezadatelné" href="Nezadatelné" class="internal-link" target="_self" rel="noopener nofollow">Nezadatelné</a> a <a data-href="nezcizitelné" href="nezcizitelné" class="internal-link" target="_self" rel="noopener nofollow">nezcizitelné</a>
+<br>Působí na všechny lidi
+<br>Jsou nezrušitelné a <a class="internal-link" data-href="Promlčení" href="Promlčení" target="_self" rel="noopener nofollow">nepromlčitelné</a> (Od narození až po smrt)
+<br>Skupiny
+
+<br>Základní lidská <a class="internal-link" data-href="Právo" href="Právo" target="_self" rel="noopener nofollow">práva</a> a svobody
+
+<br>Právo na život, soukromý majetek, lidskou důstojnost, nedotknutelnost obydlí, svoboda pohybu, pobytu, náboženská, projevu
+
+
+<br>Politická práva a svobody
+
+<br>Svoboda projevu, právo na informace, petiční právo, právo shromažďovací a sdružovací, volební právo
+
+
+<br>Hospodářská, sociální a kulturní práva
+
+<br>Právo na svobodou volbu povolání, podnikat, pracovat, na spravedlivou odměnu, na pracovní podmínky (Bezpečnost práce), odbory (organizace sdružování zaměstnanců), na stávky, omezení práce (Pro ženy při těhotenství, mladiství), na pobírání penze, na ochranu zdraví, ochranu rodiny, vzdělání, na přístup ke kulturnímu bohatství a životnímu prostředí
+
+
+<br>Práva národnostních, etnických menšin a cizinců
+
+<br>Právo pro migranty
+
+<br>Na azyl, ochranu, 
+
+
+<br>Národnostní menšiny
+
+<br>Právo pro dvojjazyčné názvy, mluvu vlastním jazykem
+
+
+
+
+<br>Právo na soudní a jinou právní ochranu
+
+<br>Právo domáhat se práva, na přezkoumání rozhodnutí státních orgánu, na náhradu škody
+
+
+
+
+<br>Trestní řízení
+
+<br>Stát X Fyzická/Právnická osoba
+<br>Stát může stíhat jen z zákonných důvodů
+<br>Soudce může vyhodit veřejnost na proces
+<br>Soudní moc
+
+<br>Nezávislé, nestranné
+
+
+
+
+<br><a class="internal-link" data-href="TrestniPravo.md" href="osz/trestnipravo.html" target="_self" rel="noopener nofollow">Trestní právo</a>
+]]></description><link>osz/verejnepravo.html</link><guid isPermaLink="false">OSZ/VerejnePravo.md</guid><pubDate>Thu, 22 May 2025 10:57:42 GMT</pubDate></item><item><title><![CDATA[Vlastnické právo]]></title><description><![CDATA[ 
+ <br><br>
+<br>Zajišťuje moc osoby nad věcí
+<br><a class="internal-link" data-href="Právo" href="Právo" target="_self" rel="noopener nofollow">Práva</a> majitele:
+
+<br>Držet (Vlastnit)
+<br>Disponovat
+<br>Používat
+<br>Nakládat s ní
+
+<br>Prodat
+<br>Směnit
+<br>
+<br>Dát do závěti
+
+
+
+
+<br>Povinnost starat se/Používat tak, aby nepoškozovala
+
+<br>Poškození životního prostředí
+<br>Zdraví jiné osoby
+<br>Veřejný zájem
+
+
+<br>Spoluvlastnictví
+
+<br>Podílové
+
+<br>Právnická osoba
+<br>Každý vlastní nějakou část (podíl)
+<br>Jsou spolumajitelé
+<br>Už není přednostní <a data-href="Právo" href="Právo" class="internal-link" target="_self" rel="noopener nofollow">Právo</a> prodeje podílu
+<br>Např. spolumajitelé ve firmě
+<br>Ideální podíl (Všeci mají stejně)
+<br>Podíl ze smlouvy
+<br>Všichni - Práva, povinnosti, stejné postavení
+<br>Všichni mají stejné, nehledě na vklad
+<br>Podpisové právo --&gt; nechci už být spoluvlastník, musím najít náhradu
+
+
+<br>Společné jmění
+
+<br>Pouze <a data-href="manželství" href="manželství" class="internal-link" target="_self" rel="noopener nofollow">manželství</a>
+<br>Po podepsání oddacího listu se vše stává společným jměním
+<br>Dá se vytvořit předmanželská smlouva může upravovat majetkové smlouvy
+
+<br>Musí být písemně
+<br>Musí být potvrzena notářem
+
+
+<br>Zubí kartáček je opravdu náš
+<br>Zaniká s manželstvím
+
+
+
+
+<br>Omezení vlastnického práva
+
+<br><a data-href="Nemovitosti" href="Nemovitosti" class="internal-link" target="_self" rel="noopener nofollow">Nemovitosti</a>
+
+<br>Služebnost, věcné břemeno
+
+<br>Vlastník musí Něco strpět - cizí lidé na mé cestě
+<br>Musí se něčeho zdržet - nějakého chování okolo majetku
+<br>Konat ve prospěch druhé osoby
+<br>Musí být v katastru nemovitostí
+<br>Např. studna, cesta, dráty elektrického vedení, podzemní vedení
+<br>Formy
+
+<br>Povinnost vlastníka nemovitosti - spravovat a pečovat
+<br>Osobní služebnost - např. musíte povolit tam někomu žít
+
+
+
+
+
+
+<br><a data-href="Movitosti" href="Movitosti" class="internal-link" target="_self" rel="noopener nofollow">Movitosti</a>
+
+<br>Zadržovací <a data-href="právo" href="právo" class="internal-link" target="_self" rel="noopener nofollow">právo</a> - např. Servis nám nevrátí auto dokud nezaplatíme
+<br>Zástavní <a data-href="právo" href="právo" class="internal-link" target="_self" rel="noopener nofollow">právo</a> (i nemovitosti) - Zastavitel je povinen vyplatit částku a může prodat
+<br>Zabavení vlastnického práva
+
+<br>Instituce zastavení
+<br>Výjimečně pro veřejný zájem (stavba dálnice)
+
+
+
+
+
+
+<br>Odpovědnost za škodu
+
+<br>Navrhovatel (Poškozený) X odpůrce (škůdce)
+<br>Škoda úmyslná/neúmyslná
+<br>Nezletilý
+
+<br>Přebírají odpovědnost zákonní zástupci
+<br>Musí se vyplatit náhrada
+<br>Za smrt do basy nejde ale je majetkově je povinen zaplatit
+
+
+<br>Ublížení na zdraví
+
+<br>Mohou žádat o kompenzace 
+
+
+
+
+]]></description><link>osz/vlastnickepravo.html</link><guid isPermaLink="false">OSZ/VlastnickePravo.md</guid><pubDate>Thu, 22 May 2025 08:12:43 GMT</pubDate></item><item><title><![CDATA[Informace Výlet]]></title><description><![CDATA[ 
+ <br><br>Ubytování - <a data-tooltip-position="top" aria-label="https://www.kemp-u-ferdinanda.cz" rel="noopener nofollow" class="external-link" href="https://www.kemp-u-ferdinanda.cz" target="_blank">Kemp u Ferdinanda</a>.<br>
+Sraz je 23.6. v 8:30 na hl. nádraží.<br>
+Chatky jsou po 4-5 lidech.<br><br><br>
+<br>Doprava - 200 Kč
+<br>Pobyt - 1110 Kč
+<br>Rezerva - 90 Kč
+<br>Celkově výběr - 1400 Kč
+<br><br>
+<br>Hotově
+<br>QR kód<br>
+<img height="139" src="lib/media/qrproplatbuvylet25.jpg" style="width: 139px; max-width: 100%;"><br>
+Jáchym Otáhal 5641710013/0800<br>
+Hodnota: 1&nbsp;400,00&nbsp;Kč<br>
+Zpráva pro příjemce: Výlet 25, Jméno: 
+<br><br><br>
+<br><a data-tooltip-position="top" aria-label="https://idos.cz/vlakyautobusymhdvse/spojeni/prehled/?p=Fyb5SSWpsOpfNdTbad2ENNjGKsQIuraLuc6yvuK5qMLh3LhaA2qd5x44IcuVRs4zbpYgIvALa:X:9jKfMoKnQWcY0hQ8ddp:QNx2tpvtE8skoTEBypDeU7:ekkgTc:m3" rel="noopener nofollow" class="external-link" href="https://idos.cz/vlakyautobusymhdvse/spojeni/prehled/?p=Fyb5SSWpsOpfNdTbad2ENNjGKsQIuraLuc6yvuK5qMLh3LhaA2qd5x44IcuVRs4zbpYgIvALa:X:9jKfMoKnQWcY0hQ8ddp:QNx2tpvtE8skoTEBypDeU7:ekkgTc:m3" target="_blank">hl. nádraží 8:45 - 11:20</a> - 79Kč
+<br><br>
+<br><a data-tooltip-position="top" aria-label="https://idos.cz/vlakyautobusymhdvse/spojeni/prehled/?p=Fyb5SSWpsOpfNdTbad2ENMcmjCQS8IE6k8f55CplqIyvjYhBguZ0BW75lyYdECE9VqRuM9aERxzhpNiVQMYe74H3WKJX0E2FfaWJjjJ:zkl8y0hh:0J:f8gMx2oDa4KG" rel="noopener nofollow" class="external-link" href="https://idos.cz/vlakyautobusymhdvse/spojeni/prehled/?p=Fyb5SSWpsOpfNdTbad2ENMcmjCQS8IE6k8f55CplqIyvjYhBguZ0BW75lyYdECE9VqRuM9aERxzhpNiVQMYe74H3WKJX0E2FfaWJjjJ:zkl8y0hh:0J:f8gMx2oDa4KG" target="_blank">9:51 - 13:15</a> - 92Kč
+<br><br><br>
+<br>Veronika Pelešková
+<br>Dan Matouš
+<br>Ondra Suk
+<br>Linda Nguyen
+<br><br><br>
+<br>Bohumský - Vlastní doprava (Tam)
+<br>Jitka Špačková - Vegan (Vlastní strava 500Kč)
+<br>Jáchym Otáhal - Vlastní doprava (Kolo)
+<br>Ondřej Lejček - Vlastní doprava (Kolo)
+<br>Tomáš Trešl - Vlastní doprava (Kolo)
+]]></description><link>skolniaktivity/vylet25.html</link><guid isPermaLink="false">SkolniAktivity/Vylet25.md</guid><pubDate>Thu, 05 Jun 2025 17:24:03 GMT</pubDate><enclosure url="lib/media/qrproplatbuvylet25.jpg" length="0" type="image/jpeg"/><content:encoded>&lt;figure&gt;&lt;img src="lib/media/qrproplatbuvylet25.jpg"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[MainMenu]]></title><description><![CDATA[ 
+ <br><br><br> Open Graph  Open Calendar<br><br>
+<br><a data-href="Kombinatorika" href="matika/kombinatorika.html" class="internal-link" target="_self" rel="noopener nofollow">Kombinatorika</a>
+<br><a class="internal-link" data-href="PascaluvTrojuhelnik" href="matika/pascaluvtrojuhelnik.html" target="_self" rel="noopener nofollow">Pascalův Trojúhelník</a>
+<br><a class="internal-link" data-href="Pravdepodobnost" href="matika/pravdepodobnost.html" target="_self" rel="noopener nofollow">Pravděpodobnost</a>
+<br> New note<br><br>
+<br><a data-href="Planimetrie" href="seminarmatika/planimetrie.html" class="internal-link" target="_self" rel="noopener nofollow">Planimetrie</a>
+<br><a class="internal-link" data-href="KomplexniCisla.md" href="seminarmatika/komplexnicisla.html" target="_self" rel="noopener nofollow">Komplexní čísla</a>
+<br><br>
+<br><a data-href="Genetika" href="biologie/genetika.html" class="internal-link" target="_self" rel="noopener nofollow">Genetika</a>
+<br><a data-tooltip-position="top" aria-label="obsidian://open?vault=School&amp;file=Biologie%2FSmyslovaSoustava" rel="noopener nofollow" class="external-link" href="obsidian://open?vault=School&amp;file=Biologie%2FSmyslovaSoustava" target="_blank">Smyslová soustava</a>
+<br><a class="internal-link" data-href="PohlavniSoustava" href="biologie/pohlavnisoustava.html" target="_self" rel="noopener nofollow">Pohlavní soustava</a>
+<br><a data-href="RandomVypiskyPriUceni" href="biologie/randomvypiskypriuceni.html" class="internal-link" target="_self" rel="noopener nofollow">RandomVypiskyPriUceni</a>
+<br><a data-href="Ekologie" href="biologie/ekologie.html" class="internal-link" target="_self" rel="noopener nofollow">Ekologie</a>
+<br> New note<br><br><br>
+<br><a class="internal-link" data-href="ObcanskePravo" href="osz/obcanskepravo.html" target="_self" rel="noopener nofollow">Občanské právo</a>
+<br><a class="internal-link" data-href="LidskaPrava" href="osz/lidskaprava.html" target="_self" rel="noopener nofollow">Lidská práva</a>
+<br><a class="internal-link" data-href="VlastnickePravo" href="osz/vlastnickepravo.html" target="_self" rel="noopener nofollow">Vlastnické právo</a>
+<br><a class="internal-link" data-href="DedickePravo" href="osz/dedickepravo.html" target="_self" rel="noopener nofollow">Dědické právo</a>
+<br><a class="internal-link" data-href="RodinnePravo" href="osz/rodinnepravo.html" target="_self" rel="noopener nofollow">Rodinné právo</a>
+<br><a class="internal-link" data-href="VerejnePravo" href="osz/verejnepravo.html" target="_self" rel="noopener nofollow">Veřejné právo</a>
+<br><a class="internal-link" data-href="TrestniPravo" href="osz/trestnipravo.html" target="_self" rel="noopener nofollow">Trestní právo</a>
+<br><br>
+<br><a data-href="Politologie" href="osz/politologie.html" class="internal-link" target="_self" rel="noopener nofollow">Politologie</a>
+<br> New note<br><br>
+<br><a data-href="Optika" href="fyzika/optika.html" class="internal-link" target="_self" rel="noopener nofollow">Optika</a>
+<br><br>
+<br><a class="internal-link" data-href="RevoluceVEvrope" href="dejepis/revolucevevrope.html" target="_self" rel="noopener nofollow">Revoluce v Evropě</a>
+<br><a data-href="Francie" href="dejepis/francie.html" class="internal-link" target="_self" rel="noopener nofollow">Francie</a>
+<br><a class="internal-link" data-href="BachuvAbsolutismus" href="dejepis/bachuvabsolutismus.html" target="_self" rel="noopener nofollow">Bachův absolutismus</a>
+<br><a class="internal-link" data-href="HabsburskaMonarchie" href="dejepis/habsburskamonarchie.html" target="_self" rel="noopener nofollow">Habsburská monarchie</a>
+<br><br>
+<br><a data-href="Antibiotika" href="chemie/antibiotika.html" class="internal-link" target="_self" rel="noopener nofollow">Antibiotika</a>
+<br><a data-href="Vitaminy" href="Vitaminy" class="internal-link" target="_self" rel="noopener nofollow">Vitaminy</a>
+<br><br>
+<br><a class="internal-link" data-href="Vylet25" href="skolniaktivity/vylet25.html" target="_self" rel="noopener nofollow">Výlet 2025</a>
+]]></description><link>mainmenu.html</link><guid isPermaLink="false">MainMenu.md</guid><pubDate>Thu, 05 Jun 2025 17:24:03 GMT</pubDate></item></channel></rss>
