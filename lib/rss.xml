@@ -1,4 +1,99 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[School]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>School</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sun, 08 Jun 2025 09:57:10 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sun, 08 Jun 2025 09:57:09 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Chromozom]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[School]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>School</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sun, 08 Jun 2025 10:57:53 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sun, 08 Jun 2025 10:57:52 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Replikace]]></title><description><![CDATA[ 
+ <br><br><br>
+<br>Zkopírování/zdvojení informace (<a class="internal-link" data-href="DNA.md" href="biologie/subbio/dna.html" target="_self" rel="noopener nofollow">DNA</a>)
+<br>Probíhá v jádře buňky (protože tam je uložená <a class="internal-link" data-href="DNA.md" href="biologie/subbio/dna.html" target="_self" rel="noopener nofollow">DNA</a>)
+<br>Jsou potřeba:
+
+<br><a class="internal-link" data-href="DNA.md" href="biologie/subbio/dna.html" target="_self" rel="noopener nofollow">Nukleotidy</a> (z nich se bude duplikát stavět)
+<br>Enzymy (DNA-polymeráza, primáza, topoizomeráza, helikáza, ligáza)
+
+<br>DNA-polymeráza: Staví DNA-řetězec přidáváním nukleotidů. Dokáže to jen směrem od 5'-konce do 3'-konce
+<br>Primáza: Vytváří primer - místo, od kterého DNA-polymeráza dokáže začít pracovat
+<br>Topoizomeráza: Drží DNA tak, aby se nezašmodrchala a nepřetrhla
+<br>Helikáza: Roztrhává vodíkové můstky, takže dvoušroubovici DNA rozděluje na dva řetězce
+<br>Ligáza: Nakonec pospojuje nově vytvořené části (místa kde začínaly nové fragmenty nejsou úplně pospojovaná)
+
+
+
+
+<br><img alt="image.png" height="224" src="lib/media/image.png" style="width: 465px; max-width: 100%;"><br><br>
+<br>Pain
+<br>TODO
+<br><br>Video: <a data-href="Youtube" href="Youtube" class="internal-link" target="_self" rel="noopener nofollow">Youtube</a>(<a rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=TNKWgcFPHqw" target="_blank">https://www.youtube.com/watch?v=TNKWgcFPHqw</a>)<br>Zajímavé video ale rozsáhlejší než potřebujeme: <a data-href="Youtube" href="Youtube" class="internal-link" target="_self" rel="noopener nofollow">Youtube</a>(<a rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=lv89fSt5jBY" target="_blank">https://www.youtube.com/watch?v=lv89fSt5jBY</a>)<br>šroubovice (RNA) versus dvoušroubovice (DNA): <a data-href="Youtube.com/shorts/" href="Youtube.com/shorts" class="internal-link" target="_self" rel="noopener nofollow">Youtube.com/shorts/</a>(<a rel="noopener nofollow" class="external-link" href="https://www.youtube.com/shorts/KRAUpmSkatY" target="_blank">https://www.youtube.com/shorts/KRAUpmSkatY</a>)]]></description><link>biologie/subbio/replikace.html</link><guid isPermaLink="false">Biologie/SubBio/Replikace.md</guid><pubDate>Sun, 08 Jun 2025 10:41:22 GMT</pubDate><enclosure url="lib/media/image.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib/media/image.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Translace]]></title><description><![CDATA[ 
+ <br><br><br>
+<br>Převod <a class="internal-link" data-href="RNA.md" href="biologie/subbio/rna.html" target="_self" rel="noopener nofollow">RNA</a> na bílkovinu
+<br>Probíhá v ribozomech
+
+<br>Ty jsou na drsném endoplazmatickém retikulu, blízko jádra buňky
+
+
+<br>Je potřeba:
+
+<br>mRNA (messengerRNA, nese data o tom, jakou sekvenci aminokyselin pospojovat)
+<br>tRNA (transferRNA, aminokyseliny donese a napojí na budovanou bílkovinu)
+<br>rRNA (ribozomálníRNA, Kavanová neprobírala, je potřeba na fungování ribozomu)
+
+
+<br><br>
+<br>Fosforylace
+
+<br>Navázání fosforylové skupiny PO3
+<br>Často na označení proteinů aby jim bylo umožněno vstoupit do buněk. Fosfoproteiny
+
+
+<br>Glykosylace
+
+<br>Navázání molekuly cukru. Glykoproteiny
+
+
+<br>Methylace
+
+<br>Navázání methylové skupiny -CH3
+
+
+<br>Acetylace
+
+<br>Navázání zbytku kyseliny octové
+
+
+<br>Hydroxylace
+
+<br>Navázání OH-skupiny
+
+
+<br>Do testu bude stačit znát názvy pár post-translačních úprav. Nemusí snad být všechny a nebude snad potřeba vysvětlení<br><br>
+<br>TODO
+]]></description><link>biologie/subbio/translace.html</link><guid isPermaLink="false">Biologie/SubBio/Translace.md</guid><pubDate>Sun, 08 Jun 2025 10:17:17 GMT</pubDate></item><item><title><![CDATA[Informace Výlet]]></title><description><![CDATA[ 
+ <br><br>Ubytování - <a data-tooltip-position="top" aria-label="https://www.kemp-u-ferdinanda.cz" rel="noopener nofollow" class="external-link" href="https://www.kemp-u-ferdinanda.cz" target="_blank">Kemp u Ferdinanda</a>.<br>
+Sraz je 23.6. v 8:30 na hl. nádraží.<br>
+Chatky jsou po 4-5 lidech.<br><br><br>
+<br>Doprava - 200 Kč
+<br>Pobyt - 1110 Kč
+<br>Rezerva - 90 Kč
+<br>Celkově výběr - 1400 Kč
+<br><br>
+<br>Hotově
+<br>QR kód<br>
+<img alt="QRProPlatbuVylet25.jpg" height="139" src="lib/media/qrproplatbuvylet25.jpg" style="width: 139px; max-width: 100%;"><br>
+Jáchym Otáhal 5641710013/0800<br>
+Hodnota: 1&nbsp;400,00&nbsp;Kč<br>
+Zpráva pro příjemce: Výlet 25, Jméno: 
+<br><br><br>
+<br><a data-tooltip-position="top" aria-label="https://idos.cz/vlakyautobusymhdvse/spojeni/prehled/?p=Fyb5SSWpsOpfNdTbad2ENNjGKsQIuraLuc6yvuK5qMLh3LhaA2qd5x44IcuVRs4zbpYgIvALa:X:9jKfMoKnQWcY0hQ8ddp:QNx2tpvtE8skoTEBypDeU7:ekkgTc:m3" rel="noopener nofollow" class="external-link" href="https://idos.cz/vlakyautobusymhdvse/spojeni/prehled/?p=Fyb5SSWpsOpfNdTbad2ENNjGKsQIuraLuc6yvuK5qMLh3LhaA2qd5x44IcuVRs4zbpYgIvALa:X:9jKfMoKnQWcY0hQ8ddp:QNx2tpvtE8skoTEBypDeU7:ekkgTc:m3" target="_blank">hl. nádraží 8:45 - 11:20</a> - 79Kč
+<br><br>
+<br><a data-tooltip-position="top" aria-label="https://idos.cz/vlakyautobusymhdvse/spojeni/prehled/?p=Fyb5SSWpsOpfNdTbad2ENMcmjCQS8IE6k8f55CplqIyvjYhBguZ0BW75lyYdECE9VqRuM9aERxzhpNiVQMYe74H3WKJX0E2FfaWJjjJ:zkl8y0hh:0J:f8gMx2oDa4KG" rel="noopener nofollow" class="external-link" href="https://idos.cz/vlakyautobusymhdvse/spojeni/prehled/?p=Fyb5SSWpsOpfNdTbad2ENMcmjCQS8IE6k8f55CplqIyvjYhBguZ0BW75lyYdECE9VqRuM9aERxzhpNiVQMYe74H3WKJX0E2FfaWJjjJ:zkl8y0hh:0J:f8gMx2oDa4KG" target="_blank">9:51 - 13:15</a> - 92Kč
+<br><br><br>
+<br>Veronika Pelešková
+<br>Dan Matouš
+<br>Ondra Suk
+<br>Linda Nguyen
+<br><br><br>
+<br>Bohumský - Vlastní doprava (Tam)
+<br>Jitka Špačková - Vegan (Vlastní strava 500Kč)
+<br>Jáchym Otáhal - Vlastní doprava (Kolo)
+<br>Ondřej Lejček - Vlastní doprava (Kolo)
+<br>Tomáš Trešl - Vlastní doprava (Kolo)
+]]></description><link>skolniaktivity/vylet25.html</link><guid isPermaLink="false">SkolniAktivity/Vylet25.md</guid><pubDate>Thu, 05 Jun 2025 17:24:03 GMT</pubDate><enclosure url="lib/media/qrproplatbuvylet25.jpg" length="0" type="image/jpeg"/><content:encoded>&lt;figure&gt;&lt;img src="lib/media/qrproplatbuvylet25.jpg"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Chromozom]]></title><description><![CDATA[ 
  <br><br>
 <br>Gonozomy
 
@@ -101,23 +196,7 @@
 
 
 
-]]></description><link>biologie/subbio/rna.html</link><guid isPermaLink="false">Biologie/SubBio/RNA.md</guid><pubDate>Sun, 08 Jun 2025 09:56:44 GMT</pubDate></item><item><title><![CDATA[Translace]]></title><description><![CDATA[ 
- <br><br><br>
-<br>Převod <a data-href="RNA" href="biologie/subbio/rna.html" class="internal-link" target="_self" rel="noopener nofollow">RNA</a> na bílkovinu
-<br>Probíhá v ribozomech
-
-<br>Ty jsou na drsném endoplazmatickém retikulu, blízko jádra buňky
-
-
-<br>Je potřeba:
-
-<br>mRNA (messengerRNA, nese data o tom, jakou sekvenci aminokyselin pospojovat)
-<br>tRNA (transferRNA, aminokyseliny donese a napojí na budovanou bílkovinu)
-<br>rRNA (ribozomálníRNA, Kavanová neprobírala, je potřeba na fungování ribozomu)
-
-
-
-]]></description><link>biologie/subbio/translace.html</link><guid isPermaLink="false">Biologie/SubBio/Translace.md</guid><pubDate>Sun, 08 Jun 2025 09:54:41 GMT</pubDate></item><item><title><![CDATA[Genetika]]></title><description><![CDATA[ 
+]]></description><link>biologie/subbio/rna.html</link><guid isPermaLink="false">Biologie/SubBio/RNA.md</guid><pubDate>Sun, 08 Jun 2025 09:56:44 GMT</pubDate></item><item><title><![CDATA[Genetika]]></title><description><![CDATA[ 
  <br><br><a class="internal-link" data-href="MyslenkovaMapaGen" href="biologie/myslenkovamapagen.html" target="_self" rel="noopener nofollow">Myšlenková mapa</a><br><br>
 <br>Člověk má 23 <a class="internal-link" data-href="Chromozom.md" href="biologie/subbio/chromozom.html" target="_self" rel="noopener nofollow">chromozomů</a>
 <br>Zde je uložená <a data-href="DNA" href="biologie/subbio/dna.html" class="internal-link" target="_self" rel="noopener nofollow">DNA</a>
@@ -359,24 +438,7 @@ Ptačí papoušek amazonský (Amazona aestiva) a Strom Akácie (Akácie trnitá 
 <br>Protokooperace je složitý vztah a závisí na mnoha faktorech.
 <br>Vzájemné výhody nemusí být vždy stejné pro oba druhy.
 <br>Tyto vztahy se mohou v průběhu času měnit a vyvíjet.
-]]></description><link>biologie/subbio/protokooperace.html</link><guid isPermaLink="false">Biologie/SubBio/Protokooperace.md</guid><pubDate>Fri, 06 Jun 2025 18:47:02 GMT</pubDate></item><item><title><![CDATA[Replikace]]></title><description><![CDATA[ 
- <br>
-<br>Zkopírování/zdvojení informace
-<br>Probíhá v
-
-<br>Jádro buňky
-<br>Mitochondrie
-
-
-<br>Postup<br>
-1. Helikeráza<br>
-2. Topoisomeráza<br>
-- Aby se <a data-href="DNA" href="biologie/subbio/dna.html" class="internal-link" target="_self" rel="noopener nofollow">DNA</a> nepřetrhnulo<br>
-3. Primása<br>
-- Vytváří počátek (Primer)<br>
--<br>
-<img alt="image.png" height="224" src="lib/media/image.png" style="width: 465px; max-width: 100%;">
-]]></description><link>biologie/subbio/replikace.html</link><guid isPermaLink="false">Biologie/SubBio/Replikace.md</guid><pubDate>Thu, 05 Jun 2025 17:24:03 GMT</pubDate><enclosure url="lib/media/image.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib/media/image.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[spermie]]></title><description><![CDATA[ 
+]]></description><link>biologie/subbio/protokooperace.html</link><guid isPermaLink="false">Biologie/SubBio/Protokooperace.md</guid><pubDate>Fri, 06 Jun 2025 18:47:02 GMT</pubDate></item><item><title><![CDATA[spermie]]></title><description><![CDATA[ 
  <br>
 <br>Spermatogeneze
 
