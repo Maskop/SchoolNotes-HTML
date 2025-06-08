@@ -1,4 +1,40 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[School]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>School</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sun, 08 Jun 2025 09:05:04 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sun, 08 Jun 2025 09:05:03 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Genetika]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[School]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>School</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sun, 08 Jun 2025 09:20:41 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sun, 08 Jun 2025 09:20:40 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[MainMenu]]></title><description><![CDATA[ 
+ <br><br><br> Open Graph  Open Calendar<br><br>
+<br><a data-href="Kombinatorika" href="matika/kombinatorika.html" class="internal-link" target="_self" rel="noopener nofollow">Kombinatorika</a>
+<br><a class="internal-link" data-href="PascaluvTrojuhelnik" href="matika/pascaluvtrojuhelnik.html" target="_self" rel="noopener nofollow">Pascalův Trojúhelník</a>
+<br><a class="internal-link" data-href="Pravdepodobnost" href="matika/pravdepodobnost.html" target="_self" rel="noopener nofollow">Pravděpodobnost</a>
+<br> New note<br><br>
+<br><a data-href="Planimetrie" href="seminarmatika/planimetrie.html" class="internal-link" target="_self" rel="noopener nofollow">Planimetrie</a>
+<br><a class="internal-link" data-href="KomplexniCisla.md" href="seminarmatika/komplexnicisla.html" target="_self" rel="noopener nofollow">Komplexní čísla</a>
+<br><br>
+<br><a data-href="Genetika" href="biologie/genetika.html" class="internal-link" target="_self" rel="noopener nofollow">Genetika</a>
+<br><a class="internal-link" data-href="SmyslovaSoustava" href="biologie/smyslovasoustava.html" target="_self" rel="noopener nofollow">Smyslová soustava</a>
+<br><a class="internal-link" data-href="PohlavniSoustava" href="biologie/pohlavnisoustava.html" target="_self" rel="noopener nofollow">Pohlavní soustava</a>
+<br><a data-href="RandomVypiskyPriUceni" href="biologie/randomvypiskypriuceni.html" class="internal-link" target="_self" rel="noopener nofollow">RandomVypiskyPriUceni</a>
+<br><a data-href="Ekologie" href="biologie/ekologie.html" class="internal-link" target="_self" rel="noopener nofollow">Ekologie</a>
+<br> New note<br><br><br>
+<br><a class="internal-link" data-href="ObcanskePravo" href="osz/obcanskepravo.html" target="_self" rel="noopener nofollow">Občanské právo</a>
+<br><a class="internal-link" data-href="LidskaPrava" href="osz/lidskaprava.html" target="_self" rel="noopener nofollow">Lidská práva</a>
+<br><a class="internal-link" data-href="VlastnickePravo" href="osz/vlastnickepravo.html" target="_self" rel="noopener nofollow">Vlastnické právo</a>
+<br><a class="internal-link" data-href="DedickePravo" href="osz/dedickepravo.html" target="_self" rel="noopener nofollow">Dědické právo</a>
+<br><a class="internal-link" data-href="RodinnePravo" href="osz/rodinnepravo.html" target="_self" rel="noopener nofollow">Rodinné právo</a>
+<br><a class="internal-link" data-href="VerejnePravo" href="osz/verejnepravo.html" target="_self" rel="noopener nofollow">Veřejné právo</a>
+<br><a class="internal-link" data-href="TrestniPravo" href="osz/trestnipravo.html" target="_self" rel="noopener nofollow">Trestní právo</a>
+<br><br>
+<br><a data-href="Politologie" href="osz/politologie.html" class="internal-link" target="_self" rel="noopener nofollow">Politologie</a>
+<br> New note<br><br>
+<br><a data-href="Optika" href="fyzika/optika.html" class="internal-link" target="_self" rel="noopener nofollow">Optika</a>
+<br><br>
+<br><a class="internal-link" data-href="RevoluceVEvrope" href="dejepis/revolucevevrope.html" target="_self" rel="noopener nofollow">Revoluce v Evropě</a>
+<br><a data-href="Francie" href="dejepis/francie.html" class="internal-link" target="_self" rel="noopener nofollow">Francie</a>
+<br><a class="internal-link" data-href="BachuvAbsolutismus" href="dejepis/bachuvabsolutismus.html" target="_self" rel="noopener nofollow">Bachův absolutismus</a>
+<br><a class="internal-link" data-href="HabsburskaMonarchie" href="dejepis/habsburskamonarchie.html" target="_self" rel="noopener nofollow">Habsburská monarchie</a>
+<br><br>
+<br><a data-href="Antibiotika" href="chemie/antibiotika.html" class="internal-link" target="_self" rel="noopener nofollow">Antibiotika</a>
+<br><a data-href="Vitaminy" href="Vitaminy" class="internal-link" target="_self" rel="noopener nofollow">Vitaminy</a>
+<br><br>
+<br><a class="internal-link" data-href="Vylet25" href="skolniaktivity/vylet25.html" target="_self" rel="noopener nofollow">Výlet 2025</a>
+]]></description><link>mainmenu.html</link><guid isPermaLink="false">MainMenu.md</guid><pubDate>Sun, 08 Jun 2025 09:20:08 GMT</pubDate></item><item><title><![CDATA[Genetika]]></title><description><![CDATA[ 
  <br><br><a class="internal-link" data-href="MyslenkovaMapaGen" href="biologie/myslenkovamapagen.html" target="_self" rel="noopener nofollow">Myšlenková mapa</a><br><br>
 <br>Člověk má 23 <a class="internal-link" data-href="Chromozom.md" href="biologie/subbio/chromozom.html" target="_self" rel="noopener nofollow">chromozomů</a>
 <br>Zde je uložená <a data-href="DNA" href="biologie/subbio/dna.html" class="internal-link" target="_self" rel="noopener nofollow">DNA</a>
@@ -2059,40 +2095,4 @@ Zpráva pro příjemce: Výlet 25, Jméno:
 <br>Jáchym Otáhal - Vlastní doprava (Kolo)
 <br>Ondřej Lejček - Vlastní doprava (Kolo)
 <br>Tomáš Trešl - Vlastní doprava (Kolo)
-]]></description><link>skolniaktivity/vylet25.html</link><guid isPermaLink="false">SkolniAktivity/Vylet25.md</guid><pubDate>Thu, 05 Jun 2025 17:24:03 GMT</pubDate><enclosure url="lib/media/qrproplatbuvylet25.jpg" length="0" type="image/jpeg"/><content:encoded>&lt;figure&gt;&lt;img src="lib/media/qrproplatbuvylet25.jpg"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[MainMenu]]></title><description><![CDATA[ 
- <br><br><br> Open Graph  Open Calendar<br><br>
-<br><a data-href="Kombinatorika" href="matika/kombinatorika.html" class="internal-link" target="_self" rel="noopener nofollow">Kombinatorika</a>
-<br><a class="internal-link" data-href="PascaluvTrojuhelnik" href="matika/pascaluvtrojuhelnik.html" target="_self" rel="noopener nofollow">Pascalův Trojúhelník</a>
-<br><a class="internal-link" data-href="Pravdepodobnost" href="matika/pravdepodobnost.html" target="_self" rel="noopener nofollow">Pravděpodobnost</a>
-<br> New note<br><br>
-<br><a data-href="Planimetrie" href="seminarmatika/planimetrie.html" class="internal-link" target="_self" rel="noopener nofollow">Planimetrie</a>
-<br><a class="internal-link" data-href="KomplexniCisla.md" href="seminarmatika/komplexnicisla.html" target="_self" rel="noopener nofollow">Komplexní čísla</a>
-<br><br>
-<br><a data-href="Genetika" href="biologie/genetika.html" class="internal-link" target="_self" rel="noopener nofollow">Genetika</a>
-<br><a data-tooltip-position="top" aria-label="obsidian://open?vault=School&amp;file=Biologie%2FSmyslovaSoustava" rel="noopener nofollow" class="external-link" href="obsidian://open?vault=School&amp;file=Biologie%2FSmyslovaSoustava" target="_blank">Smyslová soustava</a>
-<br><a class="internal-link" data-href="PohlavniSoustava" href="biologie/pohlavnisoustava.html" target="_self" rel="noopener nofollow">Pohlavní soustava</a>
-<br><a data-href="RandomVypiskyPriUceni" href="biologie/randomvypiskypriuceni.html" class="internal-link" target="_self" rel="noopener nofollow">RandomVypiskyPriUceni</a>
-<br><a data-href="Ekologie" href="biologie/ekologie.html" class="internal-link" target="_self" rel="noopener nofollow">Ekologie</a>
-<br> New note<br><br><br>
-<br><a class="internal-link" data-href="ObcanskePravo" href="osz/obcanskepravo.html" target="_self" rel="noopener nofollow">Občanské právo</a>
-<br><a class="internal-link" data-href="LidskaPrava" href="osz/lidskaprava.html" target="_self" rel="noopener nofollow">Lidská práva</a>
-<br><a class="internal-link" data-href="VlastnickePravo" href="osz/vlastnickepravo.html" target="_self" rel="noopener nofollow">Vlastnické právo</a>
-<br><a class="internal-link" data-href="DedickePravo" href="osz/dedickepravo.html" target="_self" rel="noopener nofollow">Dědické právo</a>
-<br><a class="internal-link" data-href="RodinnePravo" href="osz/rodinnepravo.html" target="_self" rel="noopener nofollow">Rodinné právo</a>
-<br><a class="internal-link" data-href="VerejnePravo" href="osz/verejnepravo.html" target="_self" rel="noopener nofollow">Veřejné právo</a>
-<br><a class="internal-link" data-href="TrestniPravo" href="osz/trestnipravo.html" target="_self" rel="noopener nofollow">Trestní právo</a>
-<br><br>
-<br><a data-href="Politologie" href="osz/politologie.html" class="internal-link" target="_self" rel="noopener nofollow">Politologie</a>
-<br> New note<br><br>
-<br><a data-href="Optika" href="fyzika/optika.html" class="internal-link" target="_self" rel="noopener nofollow">Optika</a>
-<br><br>
-<br><a class="internal-link" data-href="RevoluceVEvrope" href="dejepis/revolucevevrope.html" target="_self" rel="noopener nofollow">Revoluce v Evropě</a>
-<br><a data-href="Francie" href="dejepis/francie.html" class="internal-link" target="_self" rel="noopener nofollow">Francie</a>
-<br><a class="internal-link" data-href="BachuvAbsolutismus" href="dejepis/bachuvabsolutismus.html" target="_self" rel="noopener nofollow">Bachův absolutismus</a>
-<br><a class="internal-link" data-href="HabsburskaMonarchie" href="dejepis/habsburskamonarchie.html" target="_self" rel="noopener nofollow">Habsburská monarchie</a>
-<br><br>
-<br><a data-href="Antibiotika" href="chemie/antibiotika.html" class="internal-link" target="_self" rel="noopener nofollow">Antibiotika</a>
-<br><a data-href="Vitaminy" href="Vitaminy" class="internal-link" target="_self" rel="noopener nofollow">Vitaminy</a>
-<br><br>
-<br><a class="internal-link" data-href="Vylet25" href="skolniaktivity/vylet25.html" target="_self" rel="noopener nofollow">Výlet 2025</a>
-]]></description><link>mainmenu.html</link><guid isPermaLink="false">MainMenu.md</guid><pubDate>Thu, 05 Jun 2025 17:24:03 GMT</pubDate></item></channel></rss>
+]]></description><link>skolniaktivity/vylet25.html</link><guid isPermaLink="false">SkolniAktivity/Vylet25.md</guid><pubDate>Thu, 05 Jun 2025 17:24:03 GMT</pubDate><enclosure url="lib/media/qrproplatbuvylet25.jpg" length="0" type="image/jpeg"/><content:encoded>&lt;figure&gt;&lt;img src="lib/media/qrproplatbuvylet25.jpg"&gt;&lt;/figure&gt;</content:encoded></item></channel></rss>
