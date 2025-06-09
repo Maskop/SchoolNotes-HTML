@@ -1,4 +1,129 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[School]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>School</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 09 Jun 2025 18:53:28 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 09 Jun 2025 18:53:27 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Replikace]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[School]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>School</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 09 Jun 2025 20:09:30 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 09 Jun 2025 20:09:29 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[RNA]]></title><description><![CDATA[ 
+ <br><br>
+<br>Skládá se z <a class="internal-link" data-href="DusikateBaze" href="biologie/subbio/dusikatebaze.html" target="_self" rel="noopener nofollow">dusíkatých bází</a> (A, C, G, U)
+
+<br>Nemá thymin, má uracil
+
+
+<br>Glykosylace
+<br>Fosforylace
+<br>Acetylace
+
+<br>Zbytek kys. octové
+
+
+<br>Jednovláknová
+<br>Drží vodíkovými můstky
+<br>Typy
+
+<br>t-RNA
+
+<br>Transférová
+<br>Vybírá a umisťuje aminokyseliny
+<br>Je to kus RNA, který má na jednom konci antikodon a na jiném konci místo, kam se napojuje aminokyselina
+
+<br>Je mnoho druhů tRNA, každý nosí konkrétní aminokyselinu
+<br>Kodon znamená triplet bází v mRNA. Antikodon je triplet bází v tRNA, který je opačný svému korespondujícímu kodonu a tudíž se na něj může napojit
+<br>Prý se neví přesně, jak aminokyselina najde přesně svou tRNA, na kterou se napojit<br>
+<img alt="tRNA.jpg" height="354" src="lib/media/trna.jpg" style="width: 288px; max-width: 100%;">		
+
+
+
+
+<br>m-RNA
+
+<br>Informační, mediatorová
+<br>Řízení vzniku proteinu
+
+
+<br>r-RNA
+
+<br>Ribosomální
+<br>Jádro ribosomů, kde je mRNA překládána do proteinu 
+
+
+
+
+]]></description><link>biologie/subbio/rna.html</link><guid isPermaLink="false">Biologie/SubBio/RNA.md</guid><pubDate>Mon, 09 Jun 2025 20:08:38 GMT</pubDate><enclosure url="lib/media/trna.jpg" length="0" type="image/jpeg"/><content:encoded>&lt;figure&gt;&lt;img src="lib/media/trna.jpg"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Translace]]></title><description><![CDATA[ 
+ <br><br><br>
+<br>Převod <a class="internal-link" data-href="RNA.md" href="biologie/subbio/rna.html" target="_self" rel="noopener nofollow">RNA</a> na bílkovinu
+<br>Probíhá v ribozomech
+
+<br>Ty jsou na drsném endoplazmatickém retikulu, blízko jádra buňky
+
+
+<br>Je potřeba:
+
+<br>mRNA (messengerRNA, nese data o tom, jakou sekvenci aminokyselin pospojovat)
+<br>tRNA (transferRNA, aminokyseliny donese a napojí na budovanou bílkovinu)
+<br>rRNA (ribozomálníRNA, Kavanová neprobírala, je potřeba na fungování ribozomu)
+
+
+<br><br>
+<br>Fosforylace
+
+<br>Navázání fosforylové skupiny PO3
+<br>Často na označení proteinů aby jim bylo umožněno vstoupit do buněk. Fosfoproteiny
+
+
+<br>Glykosylace
+
+<br>Navázání molekuly cukru. Glykoproteiny
+
+
+<br>Methylace
+
+<br>Navázání methylové skupiny -CH3
+
+
+<br>Acetylace
+
+<br>Navázání zbytku kyseliny octové
+
+
+<br>Hydroxylace
+
+<br>Navázání OH-skupiny
+
+
+<br>Do testu bude stačit znát názvy pár post-translačních úprav. Nemusí snad být všechny a nebude snad potřeba vysvětlení<br><br>
+<br>Ribozom čte mRNA a postupně podle ní syntetizuje bílkovinu
+
+<br>Každý triplet bází (písmen) v mRNA znamená určitou aminokyselinu (stavební blok bílkoviny)
+
+<br>Jakou aminokyselinu kóduje jaký triplet lze najít v tabulce genetického kódu
+<br>Unikátních tripletů jde udělat 64 (4x4x4). Lidské buňky staví bílkoviny z 20 různých aminokyselin. To znamená, že některé aminokyseliny mají přiřazených více možných kódování
+
+<br>Tohle trochu pomáhá proti mutacím - když se nějaké písmeno změní, může se stát že to pořád bude kódovat tu samou aminokyselinu
+
+
+
+
+<br>START kodon je methionin. Je to místo, od kterého translace začíná. Musí být v každé bílkovině
+<br>STOP kodon znamená konec translace
+
+
+<br>Ribozom má postupně tři místa:
+
+<br>A-místo: tRNA nesoucí aminokyselinu sem dosedne a postupuje dál
+<br>P-místo: vytvoří se peptidická vazba mezi aminokyselinami. P-místo protože peptidická vazba
+<br>E-místo: Exit-místo, tRNA se odpojuje a odchází
+
+
+<br>Rozepsáno jinak: Na A-místě v ribozomu na mRNA kodon dosedne korespondující tRNA svým antikodonem. Nese aminokyselinu, tím kodonem kódovanou. tRNA s aminokyselinou postupuje do P-místa a zároveň do A-místa nasedne další tRNA s aminokyselinou. Aminokyselina na P-místě se spojí peptidickou vazbou se sousední aminokyselinou v řetězci. Postoupí do E-místa, kde se prázdná tRNA odtrhne a odchází do cytoplasmy, kde se na ní napojí aminokyselina nová. Zároveň jdou další tRNA s aminokyselinami do P-místa a A-místa. Proces pokračuje, dokud se nepoužije celá mRNA. Hotová bílkovina se foldingem zkonformuje do správného tvaru a je hotová. Ribozom může přijmout další mRNA a syntetizovat dál. Použitá mRNA se rozloží a zrecykluje<br>
+<br>Využitá mRNA jde pryč a je rozložena a zrecyklována
+<br>Když je bílkovina hotová, nastává folding. Bílkovina se folduje do správné konformace/tvaru
+
+<br>Strukturu bílkoviny drží vodíkové můstky (H-můstky), sirné můstky (S-můstky) a Wan-der-Waalsovy síly
+<br>Existuje primární, sekundární, terciální a kvartérní struktura<br>
+- primární je, jaké aminokyseliny v řetězci postupně jsou<br>
+- sekundární je buď alfa-helix nebo beta-skládaný list. Zodpovídají za to vodíkové můstky<br>
+- terciální je, jak se zkonformuje do jakéhosi tvaru popsaného Součkovou jako "chrchel"<br>
+- kvartérní je když se dvě nebo víc bílkovin spojí do jedné velké struktury<br>
+<img alt="By Boumphreyfr vector conversion by Glrx" height="348" src="lib/media/peptide_syn.svg" style="width: 568px; max-width: 100%;">
+
+
+]]></description><link>biologie/subbio/translace.html</link><guid isPermaLink="false">Biologie/SubBio/Translace.md</guid><pubDate>Mon, 09 Jun 2025 20:08:50 GMT</pubDate><enclosure url="lib/media/peptide_syn.svg" length="0" type="image/svg+xml"/><content:encoded>&lt;figure&gt;&lt;img src="lib/media/peptide_syn.svg"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Replikace]]></title><description><![CDATA[ 
  <br><br><br>
 <br>Zkopírování/zdvojení informace (<a class="internal-link" data-href="DNA.md" href="biologie/subbio/dna.html" target="_self" rel="noopener nofollow">DNA</a>)
 <br>Výsledkem jsou 2 identické řetězce DNA. Každý má jedno vlákno z původního řetězce a jedno vlákno nově vzniklé
@@ -82,84 +207,7 @@
 <br>Ribozom rozpozná podle čepičky že to je RNA a místo, za kterého má začít číst
 
 
-]]></description><link>biologie/subbio/transkripce.html</link><guid isPermaLink="false">Biologie/SubBio/Transkripce.md</guid><pubDate>Mon, 09 Jun 2025 18:25:35 GMT</pubDate></item><item><title><![CDATA[Translace]]></title><description><![CDATA[ 
- <br><br><br>
-<br>Převod <a class="internal-link" data-href="RNA.md" href="biologie/subbio/rna.html" target="_self" rel="noopener nofollow">RNA</a> na bílkovinu
-<br>Probíhá v ribozomech
-
-<br>Ty jsou na drsném endoplazmatickém retikulu, blízko jádra buňky
-
-
-<br>Je potřeba:
-
-<br>mRNA (messengerRNA, nese data o tom, jakou sekvenci aminokyselin pospojovat)
-<br>tRNA (transferRNA, aminokyseliny donese a napojí na budovanou bílkovinu)
-<br>rRNA (ribozomálníRNA, Kavanová neprobírala, je potřeba na fungování ribozomu)
-
-
-<br><br>
-<br>Fosforylace
-
-<br>Navázání fosforylové skupiny PO3
-<br>Často na označení proteinů aby jim bylo umožněno vstoupit do buněk. Fosfoproteiny
-
-
-<br>Glykosylace
-
-<br>Navázání molekuly cukru. Glykoproteiny
-
-
-<br>Methylace
-
-<br>Navázání methylové skupiny -CH3
-
-
-<br>Acetylace
-
-<br>Navázání zbytku kyseliny octové
-
-
-<br>Hydroxylace
-
-<br>Navázání OH-skupiny
-
-
-<br>Do testu bude stačit znát názvy pár post-translačních úprav. Nemusí snad být všechny a nebude snad potřeba vysvětlení<br><br>
-<br>TODO (transferová RNA, její stavba, kodon a antikodon, bílkovina, folding - vodíkové a sirné můstky)
-<br>Ribozom čte mRNA a postupně podle ní syntetizuje bílkovinu
-
-<br>Každý triplet bází (písmen) v mRNA znamená určitou aminokyselinu (stavební blok bílkoviny)
-
-<br>Jakou aminokyselinu kóduje jaký triplet lze najít v tabulce genetického kódu
-<br>Unikátních tripletů jde udělat 64 (4x4x4). Lidské buňky staví bílkoviny z 20 různých aminokyselin. To znamená, že některé aminokyseliny mají přiřazených více možných kódování
-
-<br>Tohle trochu pomáhá proti mutacím - když se nějaké písmeno změní, může se stát že to pořád bude kódovat tu samou aminokyselinu
-
-
-
-
-
-
-<br>Ribozom má postupně tři místa:
-
-<br>A-místo: tRNA nesoucí aminokyselinu sem dá aminokyselinu a ta postupuje dál
-<br>P-místo: vytvoří se peptidická vazba mezi aminokyselinami. P-místo protože peptidická vazba
-<br>E-místo: Exit-místo. bílkovinný řetězec tudy vychází z ribozomu
-
-
-<br>Využitá mRNA jde pryč a je rozložena a zrecyklována
-<br>Když je bílkovina hotová, nastává folding. Bílkovina se folduje do správné konformace/tvaru
-
-<br>Strukturu bílkoviny drží vodíkové můstky (H-můstky), sirné můstky (S-můstky) a Wan-der-Waalsovy síly
-<br>Existuje primární, sekundární, terciální a kvartérní struktura
-
-<br>primární je buď alfa-helix nebo beta-skládaný list
-<br>ostatní si najděte jinde, nechce se mi to googlit ani psát
-
-
-
-
-]]></description><link>biologie/subbio/translace.html</link><guid isPermaLink="false">Biologie/SubBio/Translace.md</guid><pubDate>Mon, 09 Jun 2025 18:52:57 GMT</pubDate></item><item><title><![CDATA[Test CJL]]></title><description><![CDATA[ 
+]]></description><link>biologie/subbio/transkripce.html</link><guid isPermaLink="false">Biologie/SubBio/Transkripce.md</guid><pubDate>Mon, 09 Jun 2025 18:25:35 GMT</pubDate></item><item><title><![CDATA[Test CJL]]></title><description><![CDATA[ 
  ]]></description><link>calendar/2025-06-11-test-cjl.html</link><guid isPermaLink="false">Calendar/2025-06-11 Test CJL.md</guid><pubDate>Mon, 09 Jun 2025 18:11:32 GMT</pubDate></item><item><title><![CDATA[Chromozom]]></title><description><![CDATA[ 
  <br><br>
 <br>Gonozomy
@@ -225,45 +273,7 @@
 <br>Aminokyseliny
 
 
-]]></description><link>biologie/subbio/dna.html</link><guid isPermaLink="false">Biologie/SubBio/DNA.md</guid><pubDate>Sun, 08 Jun 2025 09:46:27 GMT</pubDate></item><item><title><![CDATA[RNA]]></title><description><![CDATA[ 
- <br><br>
-<br>Skládá se z <a class="internal-link" data-href="DusikateBaze" href="biologie/subbio/dusikatebaze.html" target="_self" rel="noopener nofollow">dusíkatých bází</a> (A, C, G, U)
-
-<br>Nemá thymin, má uracil
-
-
-<br>Glykosylace
-<br>Fosforylace
-<br>Acetylace
-
-<br>Zbytek kys. octové
-
-
-<br>Jednovláknová
-<br>Drží vodíkovými můstky
-<br>Typy
-
-<br>t-RNA
-
-<br>Transférová
-<br>Vybírá a umisťuje aminokyseliny
-
-
-<br>m-RNA
-
-<br>Informační, mediatorová
-<br>Řízení vzniku proteinu
-
-
-<br>r-RNA
-
-<br>Ribosomální
-<br>Jádro ribosomů, kde je mRNA překládána do proteinu 
-
-
-
-
-]]></description><link>biologie/subbio/rna.html</link><guid isPermaLink="false">Biologie/SubBio/RNA.md</guid><pubDate>Sun, 08 Jun 2025 09:56:44 GMT</pubDate></item><item><title><![CDATA[Genetika]]></title><description><![CDATA[ 
+]]></description><link>biologie/subbio/dna.html</link><guid isPermaLink="false">Biologie/SubBio/DNA.md</guid><pubDate>Sun, 08 Jun 2025 09:46:27 GMT</pubDate></item><item><title><![CDATA[Genetika]]></title><description><![CDATA[ 
  <br><br><a class="internal-link" data-href="MyslenkovaMapaGen" href="biologie/myslenkovamapagen.html" target="_self" rel="noopener nofollow">Myšlenková mapa</a><br><br>
 <br>Člověk má 23 <a class="internal-link" data-href="Chromozom.md" href="biologie/subbio/chromozom.html" target="_self" rel="noopener nofollow">chromozomů</a>
 <br>Zde je uložená <a data-href="DNA" href="biologie/subbio/dna.html" class="internal-link" target="_self" rel="noopener nofollow">DNA</a>
