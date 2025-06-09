@@ -1,39 +1,7 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[School]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>School</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sun, 08 Jun 2025 15:18:43 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sun, 08 Jun 2025 15:18:42 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Transkripce]]></title><description><![CDATA[ 
- <br><br><br>
-<br>Překlad <a data-href="DNA" href="biologie/subbio/dna.html" class="internal-link" target="_self" rel="noopener nofollow">DNA</a> na <a class="internal-link" data-href="RNA" href="biologie/subbio/rna.html" target="_self" rel="noopener nofollow">mRNA</a>
-<br>Probíhá v jádře
-<br>Nepřepisuje se veškerá <a data-href="DNA" href="biologie/subbio/dna.html" class="internal-link" target="_self" rel="noopener nofollow">DNA</a> naráz
-
-<br>Je tam <a data-href="promotor" href="promotor" class="internal-link" target="_self" rel="noopener nofollow">promotor</a> - TATAbox (sekvence plná T a A bází) - místo, kam nasedá RNA-polymeráza aby to nepřekládala celé
-<br>Do mRNA se bude přepisovat taková část DNA, která ukládá data o tom jak vytvořit tu bílkovinu nebo ty bílkoviny, která buňka aktuálně potřebuje vytvářet
-
-
-<br><br>
-<br>RNA-polymeráza nasedne na promotor a od toho místa začne tvořit řetězec mRNA.
-<br>Až je mRNA hotová, nastává sestřih / splicing - nepotřebné části se z mRNA vystřihnou
-
-<br>Exony: "Exo-" -&gt; budou opouštět jádro. Ty důležité části mRNA řetězce, ty co se nevystřihnou
-<br>Introny: "Intro-" -&gt; nebudou opouštět jádro, jsou vystřihnuty pryč z mRNA řetězce. Ty nepotřebné části. Enzymaticky se rozloží a zrecyklují
-
-
-<br>Po konci transkripce: Řetězec mRNA vyjede ven z jádra (Poly-A koncem napřed) a docestuje do nějakého ribozomu na drsném endoplazmatickém retikulu. Ribozom najde mRNA podle čepičky tvořené 7-methylguanosinem
-<br><br>
-<br>Poly-A konec: = Polyadenilový konec. Několik stovek A-bází za sebou. Je na 3'-konci
-
-<br>Chrání a vede mRNA. Z jádra vyjíždí Poly-A koncem napřed a jede k ribozomu. Je na ochranu (konec mRNA se může cestou poškodit, takže aby tam nebyla rovnou důležitá informace)
-
-
-<br>Čepička: Tvořená 7-methylguanosinem připojený třemi Pi-zbytky. Je na 5'-konci
-
-<br>Ribozom rozpozná podle čepičky že to je RNA a místo, za kterého má začít číst.
-
-
-<br>Promotor - místo kde má nasedat RNA polymeráza<br>
-Poly A konec --&gt; 3', chrání, vede <a class="internal-link" data-href="RNA" href="biologie/subbio/rna.html" target="_self" rel="noopener nofollow">mRNA</a><br>
-Čepička --&gt; 5', rozpoznání ribozom<br>
-Primární transkripce je na 5' konci vybaven tzv. čepičkou vytvořenou]]></description><link>biologie/subbio/transkripce.html</link><guid isPermaLink="false">Biologie/SubBio/Transkripce.md</guid><pubDate>Sun, 08 Jun 2025 13:36:24 GMT</pubDate></item><item><title><![CDATA[Replikace]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[School]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>School</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 09 Jun 2025 07:15:08 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 09 Jun 2025 07:15:08 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Replikace]]></title><description><![CDATA[ 
  <br><br><br>
 <br>Zkopírování/zdvojení informace (<a class="internal-link" data-href="DNA.md" href="biologie/subbio/dna.html" target="_self" rel="noopener nofollow">DNA</a>)
+<br>Výsledkem jsou 2 identické řetězce DNA. Každý má jedno vlákno z původního řetězce a jedno vlákno nově vzniklé
 <br>Probíhá v jádře buňky (protože tam je uložená <a class="internal-link" data-href="DNA.md" href="biologie/subbio/dna.html" target="_self" rel="noopener nofollow">DNA</a>)
 <br>Jsou potřeba:
 
@@ -42,6 +10,10 @@ Primární transkripce je na 5' konci vybaven tzv. čepičkou vytvořenou]]></de
 
 <br>DNA-polymeráza: Staví DNA-řetězec přidáváním nukleotidů. Dokáže to jen směrem od 5'-konce do 3'-konce
 <br>Primáza: Vytváří primer - místo, od kterého DNA-polymeráza dokáže začít pracovat
+
+<br>Primer je krátká sekvence tvořená RNA
+
+
 <br>Topoizomeráza: Drží DNA tak, aby se nezašmodrchala a nepřetrhla
 <br>Helikáza: Roztrhává vodíkové můstky, takže dvoušroubovici DNA rozděluje na dva řetězce
 <br>Ligáza: Nakonec pospojuje nově vytvořené části (místa kde začínaly nové fragmenty nejsou úplně pospojovaná)
@@ -51,8 +23,38 @@ Primární transkripce je na 5' konci vybaven tzv. čepičkou vytvořenou]]></de
 
 <br><img alt="image.png" height="224" src="lib/media/image.png" style="width: 465px; max-width: 100%;"><br><br>
 <br>Pain
-<br>TODO
-<br><br>Video: <a data-href="Youtube" href="Youtube" class="internal-link" target="_self" rel="noopener nofollow">Youtube</a>(<a rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=TNKWgcFPHqw" target="_blank">https://www.youtube.com/watch?v=TNKWgcFPHqw</a>)<br>Zajímavé video ale rozsáhlejší než potřebujeme: <a data-href="Youtube" href="Youtube" class="internal-link" target="_self" rel="noopener nofollow">Youtube</a>(<a rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=lv89fSt5jBY" target="_blank">https://www.youtube.com/watch?v=lv89fSt5jBY</a>)<br>šroubovice (RNA) versus dvoušroubovice (DNA): <a data-href="Youtube.com/shorts/" href="Youtube.com/shorts" class="internal-link" target="_self" rel="noopener nofollow">Youtube.com/shorts/</a>(<a rel="noopener nofollow" class="external-link" href="https://www.youtube.com/shorts/KRAUpmSkatY" target="_blank">https://www.youtube.com/shorts/KRAUpmSkatY</a>)]]></description><link>biologie/subbio/replikace.html</link><guid isPermaLink="false">Biologie/SubBio/Replikace.md</guid><pubDate>Sun, 08 Jun 2025 10:41:22 GMT</pubDate><enclosure url="lib/media/image.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib/media/image.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Translace]]></title><description><![CDATA[ 
+<br>TODO (replikační počátky, topoizomeráza a helikáza a primery, polymeráza, leading a lagging strand, 3'-konec versus 5'-konec, Okazakiho fragmenty, pospojování ligázou, oprava chyb)
+<br>Jsou určeny replikační počátky
+
+<br>Místa v řetězci, od kterých replikace začne. Postupuje na obě strany
+<br>U prokaryotních buněk (bakterie) je jeden. Replikace trvá déle
+<br>U eukaryotních buněk (živočichové, rostliny, houby) je jich mnoho, aby to netrvalo tak dlouho, protože DNA je tady hodně
+
+<br>Rychlost DNA replikace buňky člověka je 50 bází za minutu
+
+
+
+
+<br>Topoizomeráza drží DNA tak, aby se nezašmodrchala a nepřetrhla
+<br>Helikáza rozdělí dvoušroubovici na dvě vlákna - udělá "replikační vidlici"
+<br>DNA-polymeráza ke každému z vláken přidělává druhé vlákno (naproti G-bázím navazuje C-báze a podobně)
+
+<br>DNA-polymeráza zvládá tvořit nové vlákno pouze ve směru od jeho 5'-konce do 3'-konce. Po již existujícím vlákně tedy jede od 3'-konce k 5'-konci
+<br>Vlákno, kde začne u primeru a jede dál bez problému je "vedoucí řetězec" / "leading strand"
+<br>Vlákno, kde začne u primeru a musí jet směrem od replikační vidlice je "váznoucí řetězec" / "lagging strand"
+
+<br>Musí se neustále tvořit nové primery, kam nasedne další DNA-polymeráza
+
+<br>Primerů tam bude hodně a nakonec se budou muset odstranit a nahradit DNA
+
+
+<br>Tvorba vlákna probíhá po kouscích, řádově třeba 200 bází dlouhých. To jsou Okazakiho fragmenty
+
+
+
+
+<br>Po dokončení nových vláken jsou primery odstraněny a nahrazeny DNA (to dělá jiný druh DNA-polymerázy). Ligáza nově vytvořené vlákno pospojuje
+<br>Opravu chyb Kavanová moc neprobírala a snad nechce, používá se několik způsobů, za jeden je zodpovědný enzym exonukleáza ("exo-" -&gt; ven/pryč), vyndává pryč chybné báze. Potom prázdná místa vyplní DNA-polymeráza (jiného typu než ta dříve zmíněná) správnými bázemi. Ligáza vlákno zacelí<br><br>Video: <a data-tooltip-position="top" aria-label="https://www.youtube.com/watch?v=TNKWgcFPHqw" rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=TNKWgcFPHqw" target="_blank">Youtube</a><br>Zajímavé video ale rozsáhlejší než potřebujeme: <a data-tooltip-position="top" aria-label="https://www.youtube.com/watch?v=lv89fSt5jBY" rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=lv89fSt5jBY" target="_blank">Youtube</a><br>šroubovice (RNA) versus dvoušroubovice (DNA): <a data-tooltip-position="top" aria-label="https://www.youtube.com/shorts/KRAUpmSkatY" rel="noopener nofollow" class="external-link" href="https://www.youtube.com/shorts/KRAUpmSkatY" target="_blank">Youtube.com/shorts/</a>]]></description><link>biologie/subbio/replikace.html</link><guid isPermaLink="false">Biologie/SubBio/Replikace.md</guid><pubDate>Mon, 09 Jun 2025 07:14:13 GMT</pubDate><enclosure url="lib/media/image.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib/media/image.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Translace]]></title><description><![CDATA[ 
  <br><br><br>
 <br>Převod <a class="internal-link" data-href="RNA.md" href="biologie/subbio/rna.html" target="_self" rel="noopener nofollow">RNA</a> na bílkovinu
 <br>Probíhá v ribozomech
@@ -95,8 +97,41 @@ Primární transkripce je na 5' konci vybaven tzv. čepičkou vytvořenou]]></de
 
 
 <br>Do testu bude stačit znát názvy pár post-translačních úprav. Nemusí snad být všechny a nebude snad potřeba vysvětlení<br><br>
-<br>TODO
-]]></description><link>biologie/subbio/translace.html</link><guid isPermaLink="false">Biologie/SubBio/Translace.md</guid><pubDate>Sun, 08 Jun 2025 10:17:17 GMT</pubDate></item><item><title><![CDATA[Chromozom]]></title><description><![CDATA[ 
+<br>TODO (transferová RNA, její stavba, kodon a antikodon, bílkovina, folding - vodíkové a sirné můstky)
+]]></description><link>biologie/subbio/translace.html</link><guid isPermaLink="false">Biologie/SubBio/Translace.md</guid><pubDate>Mon, 09 Jun 2025 07:14:13 GMT</pubDate></item><item><title><![CDATA[Transkripce]]></title><description><![CDATA[ 
+ <br><br><br>
+<br>Překlad <a data-href="DNA" href="biologie/subbio/dna.html" class="internal-link" target="_self" rel="noopener nofollow">DNA</a> na <a class="internal-link" data-href="RNA" href="biologie/subbio/rna.html" target="_self" rel="noopener nofollow">mRNA</a>
+<br>Probíhá v jádře
+<br>Nepřepisuje se veškerá <a data-href="DNA" href="biologie/subbio/dna.html" class="internal-link" target="_self" rel="noopener nofollow">DNA</a> naráz
+
+<br>Je tam <a data-href="promotor" href="promotor" class="internal-link" target="_self" rel="noopener nofollow">promotor</a> - TATAbox (sekvence plná T a A bází) - místo, kam nasedá RNA-polymeráza aby to nepřekládala celé
+<br>Do mRNA se bude přepisovat taková část DNA, která ukládá data o tom jak vytvořit tu bílkovinu nebo ty bílkoviny, která buňka aktuálně potřebuje vytvářet
+
+
+<br><br>
+<br>RNA-polymeráza nasedne na promotor a od toho místa začne tvořit řetězec mRNA.
+<br>Až je mRNA hotová, nastává sestřih / splicing - nepotřebné části se z mRNA vystřihnou
+
+<br>Exony: "Exo-" -&gt; budou opouštět jádro. Ty důležité části mRNA řetězce, ty co se nevystřihnou
+<br>Introny: "Intro-" -&gt; nebudou opouštět jádro, jsou vystřihnuty pryč z mRNA řetězce. Ty nepotřebné části. Enzymaticky se rozloží a zrecyklují
+
+
+<br>Po konci transkripce: Řetězec mRNA vyjede ven z jádra (Poly-A koncem napřed) a docestuje do nějakého ribozomu na drsném endoplazmatickém retikulu. Ribozom najde mRNA podle čepičky tvořené 7-methylguanosinem
+<br><br>
+<br>Poly-A konec: = Polyadenilový konec. Několik stovek A-bází za sebou. Je na 3'-konci
+
+<br>Chrání a vede mRNA. Z jádra vyjíždí Poly-A koncem napřed a jede k ribozomu. Je na ochranu (konec mRNA se může cestou poškodit, takže aby tam nebyla rovnou důležitá informace)
+
+
+<br>Čepička: Tvořená 7-methylguanosinem připojený třemi Pi-zbytky. Je na 5'-konci
+
+<br>Ribozom rozpozná podle čepičky že to je RNA a místo, za kterého má začít číst.
+
+
+<br>Promotor - místo kde má nasedat RNA polymeráza<br>
+Poly A konec --&gt; 3', chrání, vede <a class="internal-link" data-href="RNA" href="biologie/subbio/rna.html" target="_self" rel="noopener nofollow">mRNA</a><br>
+Čepička --&gt; 5', rozpoznání ribozom<br>
+Primární transkripce je na 5' konci vybaven tzv. čepičkou vytvořenou]]></description><link>biologie/subbio/transkripce.html</link><guid isPermaLink="false">Biologie/SubBio/Transkripce.md</guid><pubDate>Sun, 08 Jun 2025 13:36:24 GMT</pubDate></item><item><title><![CDATA[Chromozom]]></title><description><![CDATA[ 
  <br><br>
 <br>Gonozomy
 
