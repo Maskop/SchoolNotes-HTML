@@ -1,4 +1,309 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[School]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>School</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 09 Jun 2025 20:27:21 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 09 Jun 2025 20:27:21 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[RNA]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[School]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>School</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 12 Jun 2025 15:28:38 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 12 Jun 2025 15:28:38 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Replikace]]></title><description><![CDATA[ 
+ <br><br><br>
+<br>Zkopírování/zdvojení informace (<a class="internal-link" data-href="DNA.md" href="biologie/subbio/dna.html" target="_self" rel="noopener nofollow">DNA</a>)
+<br>Výsledkem jsou 2 identické řetězce DNA. Každý má jedno vlákno z původního řetězce a jedno vlákno nově vzniklé
+<br>Probíhá v jádře buňky (protože tam je uložená <a class="internal-link" data-href="DNA.md" href="biologie/subbio/dna.html" target="_self" rel="noopener nofollow">DNA</a>)
+<br>Jsou potřeba:
+
+<br><a class="internal-link" data-href="DNA.md" href="biologie/subbio/dna.html" target="_self" rel="noopener nofollow">Nukleotidy</a> (z nich se bude duplikát stavět)
+<br>Enzymy (DNA-polymeráza, primáza, topoizomeráza, helikáza, ligáza)
+
+<br>DNA-polymeráza: Staví DNA-řetězec přidáváním nukleotidů. Dokáže to jen směrem od 5'-konce do 3'-konce
+<br>Primáza: Vytváří primer - místo, od kterého DNA-polymeráza dokáže začít pracovat
+
+<br>Primer je krátká sekvence tvořená RNA
+
+
+<br>Topoizomeráza: Drží DNA tak, aby se nezašmodrchala a nepřetrhla
+<br>Helikáza: Roztrhává vodíkové můstky, takže dvoušroubovici DNA rozděluje na dva řetězce
+<br>Ligáza: Nakonec pospojuje nově vytvořené části (místa kde začínaly nové fragmenty nejsou úplně pospojovaná)
+
+
+
+
+<br><img alt="MatikaGeometrie1.png" height="224" src="lib/media/matikageometrie1.png" style="width: 465px; max-width: 100%;"><br><br>
+<br>V DNA jsou replikační počátky
+
+<br>Místa v řetězci, od kterých replikace začne. Postupuje na obě strany
+<br>U prokaryotních buněk (bakterie) je jeden. Replikace trvá déle
+<br>U eukaryotních buněk (živočichové, rostliny, houby) je jich mnoho, aby to netrvalo tak dlouho, protože DNA je tady hodně
+
+<br>Rychlost DNA replikace buňky člověka je 50 bází za minutu
+
+
+
+
+<br>Topoizomeráza drží DNA tak, aby se nezašmodrchala a nepřetrhla
+<br>Helikáza rozdělí dvoušroubovici na dvě vlákna - udělá "replikační vidlici"
+<br>DNA-polymeráza ke každému z vláken přidělává druhé vlákno (naproti G-bázím navazuje C-báze a podobně)
+
+<br>DNA-polymeráza zvládá tvořit nové vlákno pouze ve směru od jeho 5'-konce do 3'-konce. Po již existujícím vlákně tedy jede od 3'-konce k 5'-konci
+<br>Vlákno, kde začne u primeru a jede dál bez problému je "vedoucí řetězec" / "leading strand"
+<br>Vlákno, kde začne u primeru a musí jet směrem od replikační vidlice je "váznoucí řetězec" / "lagging strand"
+
+<br>Musí se neustále tvořit nové primery, kam nasedne další DNA-polymeráza
+
+<br>Primerů tam bude hodně a nakonec se budou muset odstranit a nahradit DNA
+
+
+<br>Tvorba vlákna probíhá po kouscích, řádově třeba 200 bází dlouhých. To jsou Okazakiho fragmenty
+
+
+
+
+<br>Po dokončení nových vláken jsou primery odstraněny a nahrazeny DNA (to dělá jiný druh DNA-polymerázy). Ligáza nově vytvořené vlákno pospojuje
+<br>Opravu chyb Kavanová moc neprobírala a snad nechce, používá se několik způsobů, za jeden je zodpovědný enzym exonukleáza ("exo-" -&gt; ven/pryč), vyndává pryč chybné báze. Potom prázdná místa vyplní DNA-polymeráza (jiného typu než ta dříve zmíněná) správnými bázemi. Ligáza vlákno zacelí<br><br>Video: <a data-tooltip-position="top" aria-label="https://www.youtube.com/watch?v=TNKWgcFPHqw" rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=TNKWgcFPHqw" target="_blank">Youtube</a><br>Zajímavé video ale rozsáhlejší než potřebujeme: <a data-tooltip-position="top" aria-label="https://www.youtube.com/watch?v=lv89fSt5jBY" rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=lv89fSt5jBY" target="_blank">Youtube</a><br>šroubovice (RNA) versus dvoušroubovice (DNA): <a data-tooltip-position="top" aria-label="https://www.youtube.com/shorts/KRAUpmSkatY" rel="noopener nofollow" class="external-link" href="https://www.youtube.com/shorts/KRAUpmSkatY" target="_blank">Youtube.com/shorts/</a>]]></description><link>biologie/subbio/replikace.html</link><guid isPermaLink="false">Biologie/SubBio/Replikace.md</guid><pubDate>Thu, 12 Jun 2025 15:19:57 GMT</pubDate><enclosure url="lib/media/matikageometrie1.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib/media/matikageometrie1.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Politologie]]></title><description><![CDATA[ 
+ <br><br>
+<br>Čím se zabývá
+
+<br>Politickými skupinami
+<br>Ideologiemi
+<br>Chování jedince
+
+
+<br>Disciplíny
+
+<br>Obecná
+
+<br>Zabývá se sama sebou
+<br>Je to převážně o její historii
+<br>Evropská X Americká část
+<br>Vývoj politických škol
+<br>Vztah k jiným vědám
+
+
+<br>Politické teorie
+
+<br>Filozofie
+<br>Hlavní autoři
+
+
+<br>Srovnávací politologie
+
+<br>Srovnává např. typů ústav, státních zřízení
+
+
+<br>Politické instituce
+
+<br>Moc výkonná, zákonná, soudní
+
+
+<br>Mezinárodní vztahy
+
+<br>Velmi náročná disciplína
+<br>Uzavírání smluv
+<br>Domluva mezi státy
+
+
+
+
+<br>Výzkum
+
+<br>Cesty
+
+<br>Normativní politologie
+
+<br>Co je cíl politologie
+<br>Jaké jsou hodnoty politologie
+<br>Politická kultura
+
+
+<br>
+<br>Prognostická politologie
+
+<br>Předpověď jak se bude politika rozvíjet
+<br>Předvídají realitu
+
+
+
+
+
+
+<br><br>
+<br>Praxe 
+<br>Politická činnost
+
+<br>Nějakých politických subjektů
+<br>Politický subjekt
+
+<br>Organizace
+<br>Disponují mocí
+
+
+<br>Politický objekt
+
+<br>Občané
+<br>Nemají moc
+
+
+<br>Vliv
+
+<br>Např. Forma moci
+<br>Autorita
+
+
+<br>Prostředky
+<br>Střety demokratických názorů --&gt; Najít společné řešení
+
+
+<br><br>
+<br><a data-href="Filozofie" href="Filozofie" class="internal-link" target="_self" rel="noopener nofollow">Filozofie</a>
+<br><a data-href="Sociologie" href="Sociologie" class="internal-link" target="_self" rel="noopener nofollow">Sociologie</a>
+<br><a data-href="Historie" href="Historie" class="internal-link" target="_self" rel="noopener nofollow">Historie</a>
+<br><a data-href="Psychologie" href="Psychologie" class="internal-link" target="_self" rel="noopener nofollow">Psychologie</a>
+<br><a data-href="Ekonomie" href="Ekonomie" class="internal-link" target="_self" rel="noopener nofollow">Ekonomie</a>
+<br><a class="internal-link" data-href="Pravo" href="Pravo" target="_self" rel="noopener nofollow">Právo</a>
+<br><br>
+<br>Historická
+<br>Komparativní
+<br>Behavioristická metoda
+<br>Metoda SWOT
+
+<br>Chování v politice
+<br>Určení silných a slabých stránek
+<br>Po analýze + a - to vyhlásí
+
+
+<br>Geografická metoda
+<br><br>
+<br>Pokrok
+
+<br>Zbytkové právo
+<br>Existence písma
+<br>Existence společenských vztahů
+
+
+<br>Koncepce vzniku státu
+
+<br>Teologická koncepce
+
+<br>Stát je vytvořen bohem
+<br>Hodně uplatněno ve středověku
+<br>Jde vidět i v novodobých dějinách viz Japonsko
+
+<br><a class="internal-link" data-href="Sintoismus" href="Sintoismus" target="_self" rel="noopener nofollow">Šintoismus</a>
+
+<br>Hlavní bohyně Amateresu
+<br>Císaři byli boží syni
+
+
+<br>Až do 2. světové války (<a data-href="1946" href="1946" class="internal-link" target="_self" rel="noopener nofollow">1946</a>)
+
+
+
+
+<br>Patriarchální
+
+<br>Stát je větší rodina
+
+
+<br>Mocenská
+
+<br>Podle toho kdo je nejschopnější
+<br>Vládne slabším
+<br>Diktatury
+
+
+<br>Smluvní
+
+<br>Kompromis
+<br>Protože to předtím nefungovalo
+<br>"Stát lidi zotročuje" - nějaký chytrý člověk
+
+
+
+
+<br><br>
+<br>Má teritorium (Pozemní, vzdušný a námořní)
+<br>Státní moc
+<br>Obyvatelstvo
+<br>Státní suverenita - vnější, uznání ostatních států
+<br>Vnitřní suverenita
+
+<br>Není závislý na jiném subjektu ve státě
+<br>Vláda vykonává jak ona chce
+
+
+<br>Funkce
+
+<br>Vnější
+
+<br>Obranná
+<br>Hospodářská
+
+
+<br>Vnitřní
+
+<br>Bezpečnostní
+
+
+
+
+<br>Rozdělení
+
+<br>Podle hlavy státu
+
+<br>Republika
+
+<br>V čele je prezident
+<br>Typy
+
+<br>Prezidentská
+
+<br>Vysoké postavení
+<br>Prezident si určuje vládu
+<br>Vláda rozdělena od zákonodárné moci
+
+
+<br>Semiprezidenská
+
+<br>Má středové pravomoce
+
+
+<br>Parlamentní
+
+<br>Prezident nemá skoro žádný vliv
+
+
+
+
+
+
+<br>Monarchie
+
+<br>Typy
+
+<br>Absolutní
+
+<br>Panovník disponuje všemi pravomocemi
+
+
+<br>Parlamentní
+
+<br>Panovník konzultuje s parlamentem
+
+
+<br>Konstituční
+
+<br>Moc panovníka omezena
+<br>Např. Japonsko po roce 1946
+
+
+
+
+
+
+
+
+<br>Podle územně-správního členění
+
+<br>Unitární
+<br>Federace
+
+
+
+
+]]></description><link>osz/politologie.html</link><guid isPermaLink="false">OSZ/Politologie.md</guid><pubDate>Thu, 12 Jun 2025 15:19:57 GMT</pubDate></item><item><title><![CDATA[RNA]]></title><description><![CDATA[ 
  <br><br>
 <br>Skládá se z <a class="internal-link" data-href="DusikateBaze" href="biologie/subbio/dusikatebaze.html" target="_self" rel="noopener nofollow">dusíkatých bází</a> (A, C, G, U)
 
@@ -123,61 +428,7 @@
 <img alt="By Boumphreyfr vector conversion by Glrx" height="348" src="lib/media/peptide_syn.svg" style="width: 568px; max-width: 100%;">
 
 
-]]></description><link>biologie/subbio/translace.html</link><guid isPermaLink="false">Biologie/SubBio/Translace.md</guid><pubDate>Mon, 09 Jun 2025 20:08:50 GMT</pubDate><enclosure url="lib/media/peptide_syn.svg" length="0" type="image/svg+xml"/><content:encoded>&lt;figure&gt;&lt;img src="lib/media/peptide_syn.svg"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Replikace]]></title><description><![CDATA[ 
- <br><br><br>
-<br>Zkopírování/zdvojení informace (<a class="internal-link" data-href="DNA.md" href="biologie/subbio/dna.html" target="_self" rel="noopener nofollow">DNA</a>)
-<br>Výsledkem jsou 2 identické řetězce DNA. Každý má jedno vlákno z původního řetězce a jedno vlákno nově vzniklé
-<br>Probíhá v jádře buňky (protože tam je uložená <a class="internal-link" data-href="DNA.md" href="biologie/subbio/dna.html" target="_self" rel="noopener nofollow">DNA</a>)
-<br>Jsou potřeba:
-
-<br><a class="internal-link" data-href="DNA.md" href="biologie/subbio/dna.html" target="_self" rel="noopener nofollow">Nukleotidy</a> (z nich se bude duplikát stavět)
-<br>Enzymy (DNA-polymeráza, primáza, topoizomeráza, helikáza, ligáza)
-
-<br>DNA-polymeráza: Staví DNA-řetězec přidáváním nukleotidů. Dokáže to jen směrem od 5'-konce do 3'-konce
-<br>Primáza: Vytváří primer - místo, od kterého DNA-polymeráza dokáže začít pracovat
-
-<br>Primer je krátká sekvence tvořená RNA
-
-
-<br>Topoizomeráza: Drží DNA tak, aby se nezašmodrchala a nepřetrhla
-<br>Helikáza: Roztrhává vodíkové můstky, takže dvoušroubovici DNA rozděluje na dva řetězce
-<br>Ligáza: Nakonec pospojuje nově vytvořené části (místa kde začínaly nové fragmenty nejsou úplně pospojovaná)
-
-
-
-
-<br><img alt="image.png" height="224" src="lib/media/image.png" style="width: 465px; max-width: 100%;"><br><br>
-<br>V DNA jsou replikační počátky
-
-<br>Místa v řetězci, od kterých replikace začne. Postupuje na obě strany
-<br>U prokaryotních buněk (bakterie) je jeden. Replikace trvá déle
-<br>U eukaryotních buněk (živočichové, rostliny, houby) je jich mnoho, aby to netrvalo tak dlouho, protože DNA je tady hodně
-
-<br>Rychlost DNA replikace buňky člověka je 50 bází za minutu
-
-
-
-
-<br>Topoizomeráza drží DNA tak, aby se nezašmodrchala a nepřetrhla
-<br>Helikáza rozdělí dvoušroubovici na dvě vlákna - udělá "replikační vidlici"
-<br>DNA-polymeráza ke každému z vláken přidělává druhé vlákno (naproti G-bázím navazuje C-báze a podobně)
-
-<br>DNA-polymeráza zvládá tvořit nové vlákno pouze ve směru od jeho 5'-konce do 3'-konce. Po již existujícím vlákně tedy jede od 3'-konce k 5'-konci
-<br>Vlákno, kde začne u primeru a jede dál bez problému je "vedoucí řetězec" / "leading strand"
-<br>Vlákno, kde začne u primeru a musí jet směrem od replikační vidlice je "váznoucí řetězec" / "lagging strand"
-
-<br>Musí se neustále tvořit nové primery, kam nasedne další DNA-polymeráza
-
-<br>Primerů tam bude hodně a nakonec se budou muset odstranit a nahradit DNA
-
-
-<br>Tvorba vlákna probíhá po kouscích, řádově třeba 200 bází dlouhých. To jsou Okazakiho fragmenty
-
-
-
-
-<br>Po dokončení nových vláken jsou primery odstraněny a nahrazeny DNA (to dělá jiný druh DNA-polymerázy). Ligáza nově vytvořené vlákno pospojuje
-<br>Opravu chyb Kavanová moc neprobírala a snad nechce, používá se několik způsobů, za jeden je zodpovědný enzym exonukleáza ("exo-" -&gt; ven/pryč), vyndává pryč chybné báze. Potom prázdná místa vyplní DNA-polymeráza (jiného typu než ta dříve zmíněná) správnými bázemi. Ligáza vlákno zacelí<br><br>Video: <a data-tooltip-position="top" aria-label="https://www.youtube.com/watch?v=TNKWgcFPHqw" rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=TNKWgcFPHqw" target="_blank">Youtube</a><br>Zajímavé video ale rozsáhlejší než potřebujeme: <a data-tooltip-position="top" aria-label="https://www.youtube.com/watch?v=lv89fSt5jBY" rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=lv89fSt5jBY" target="_blank">Youtube</a><br>šroubovice (RNA) versus dvoušroubovice (DNA): <a data-tooltip-position="top" aria-label="https://www.youtube.com/shorts/KRAUpmSkatY" rel="noopener nofollow" class="external-link" href="https://www.youtube.com/shorts/KRAUpmSkatY" target="_blank">Youtube.com/shorts/</a>]]></description><link>biologie/subbio/replikace.html</link><guid isPermaLink="false">Biologie/SubBio/Replikace.md</guid><pubDate>Mon, 09 Jun 2025 18:25:35 GMT</pubDate><enclosure url="lib/media/image.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib/media/image.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Transkripce]]></title><description><![CDATA[ 
+]]></description><link>biologie/subbio/translace.html</link><guid isPermaLink="false">Biologie/SubBio/Translace.md</guid><pubDate>Mon, 09 Jun 2025 20:08:50 GMT</pubDate><enclosure url="lib/media/peptide_syn.svg" length="0" type="image/svg+xml"/><content:encoded>&lt;figure&gt;&lt;img src="lib/media/peptide_syn.svg"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Transkripce]]></title><description><![CDATA[ 
  <br><br><br>
 <br>Překlad <a data-href="DNA" href="biologie/subbio/dna.html" class="internal-link" target="_self" rel="noopener nofollow">DNA</a> na <a class="internal-link" data-href="RNA" href="biologie/subbio/rna.html" target="_self" rel="noopener nofollow">mRNA</a>
 <br>Probíhá v jádře
@@ -1574,179 +1825,7 @@ Rok <a data-href="1848" href="1848" class="internal-link" target="_self" rel="no
 
 <br><a data-href="VlastnickePravo" href="osz/vlastnickepravo.html" class="internal-link" target="_self" rel="noopener nofollow">VlastnickePravo</a>
 <br><a data-href="DedickePravo" href="osz/dedickepravo.html" class="internal-link" target="_self" rel="noopener nofollow">DedickePravo</a>
-]]></description><link>osz/obcanskepravo.html</link><guid isPermaLink="false">OSZ/ObcanskePravo.md</guid><pubDate>Thu, 22 May 2025 08:12:53 GMT</pubDate></item><item><title><![CDATA[Politologie]]></title><description><![CDATA[ 
- <br><br>
-<br>Čím se zabývá
-
-<br>Politickými skupinami
-<br>Ideologiemi
-<br>Chování jedince
-
-
-<br>Disciplíny
-
-<br>Obecná
-
-<br>Zabývá se sama sebou
-<br>Je to převážně o její historii
-<br>Evropská X Americká část
-<br>Vývoj politických škol
-<br>Vztah k jiným vědám
-
-
-<br>Politické teorie
-
-<br>Filozofie
-<br>Hlavní autoři
-
-
-<br>Srovnávací politologie
-
-<br>Srovnává např. typů ústav, státních zřízení
-
-
-<br>Politické instituce
-
-<br>Moc výkonná, zákonná, soudní
-
-
-<br>Mezinárodní vztahy
-
-<br>Velmi náročná disciplína
-<br>Uzavírání smluv
-<br>Domluva mezi státy
-
-
-
-
-<br>Výzkum
-
-<br>Cesty
-
-<br>Normativní politologie
-
-<br>Co je cíl politologie
-<br>Jaké jsou hodnoty politologie
-<br>Politická kultura
-
-
-<br>
-<br>Prognostická politologie
-
-<br>Předpověď jak se bude politika rozvíjet
-<br>Předvídají realitu
-
-
-
-
-
-
-<br><br>
-<br>Praxe 
-<br>Politická činnost
-
-<br>Nějakých politických subjektů
-<br>Politický subjekt
-
-<br>Organizace
-<br>Disponují mocí
-
-
-<br>Politický objekt
-
-<br>Občané
-<br>Nemají moc
-
-
-<br>Vliv
-
-<br>Např. Forma moci
-<br>Autorita
-
-
-<br>Prostředky
-<br>Střety demokratických názorů --&gt; Najít společné řešení
-
-
-<br><br>
-<br><a data-href="Filozofie" href="Filozofie" class="internal-link" target="_self" rel="noopener nofollow">Filozofie</a>
-<br><a data-href="Sociologie" href="Sociologie" class="internal-link" target="_self" rel="noopener nofollow">Sociologie</a>
-<br><a data-href="Historie" href="Historie" class="internal-link" target="_self" rel="noopener nofollow">Historie</a>
-<br><a data-href="Psychologie" href="Psychologie" class="internal-link" target="_self" rel="noopener nofollow">Psychologie</a>
-<br><a data-href="Ekonomie" href="Ekonomie" class="internal-link" target="_self" rel="noopener nofollow">Ekonomie</a>
-<br><a class="internal-link" data-href="Pravo" href="Pravo" target="_self" rel="noopener nofollow">Právo</a>
-<br><br>
-<br>Historická
-<br>Komparativní
-<br>Behavioristická metoda
-<br>Metoda SWOT
-
-<br>Chování v politice
-<br>Určení silných a slabých stránek
-<br>Po analýze + a - to vyhlásí
-
-
-<br>Geografická metoda
-<br><br>
-<br>Pokrok
-
-<br>Zbytkové právo
-<br>Existence písma
-<br>Existence společenských vztahů
-
-
-<br>Koncepce vzniku státu
-
-<br>Teologická koncepce
-
-<br>Stát je vytvořen bohem
-<br>Hodně uplatněno ve středověku
-<br>Jde vidět i v novodobých dějinách viz Japonsko
-
-<br><a class="internal-link" data-href="Sintoismus" href="Sintoismus" target="_self" rel="noopener nofollow">Šintoismus</a>
-
-<br>Hlavní bohyně Amateresu
-<br>Císaři byli boží syni
-
-
-<br>Až do 2. světové války (<a data-href="1946" href="1946" class="internal-link" target="_self" rel="noopener nofollow">1946</a>)
-
-
-
-
-<br>Patriarchální
-
-<br>Stát je větší rodina
-
-
-<br>Mocenská
-
-<br>Podle toho kdo je nejschopnější
-<br>Vládne slabším
-<br>Diktatury
-
-
-<br>Smluvní
-
-<br>Kompromis
-<br>Protože to předtím nefungovalo
-<br>"Stát lidi zotročuje" - nějaký chytrý člověk
-
-
-
-
-<br><br>
-<br>Má teritorium (Pozemní, vzdušný a námořní)
-<br>Státní moc
-<br>Obyvatelstvo
-<br>Státní suverenita - vnější, uznání ostatních států
-<br>Vnitřní suverenita
-
-<br>Není závislý na jiném subjektu ve státě
-<br>Vláda vykonává jak ona chce
-
-
-]]></description><link>osz/politologie.html</link><guid isPermaLink="false">OSZ/Politologie.md</guid><pubDate>Fri, 06 Jun 2025 18:47:02 GMT</pubDate></item><item><title><![CDATA[Rodinné právo]]></title><description><![CDATA[ 
+]]></description><link>osz/obcanskepravo.html</link><guid isPermaLink="false">OSZ/ObcanskePravo.md</guid><pubDate>Thu, 22 May 2025 08:12:53 GMT</pubDate></item><item><title><![CDATA[Rodinné právo]]></title><description><![CDATA[ 
  <br><br>
 <br>Zánik manželství
 
