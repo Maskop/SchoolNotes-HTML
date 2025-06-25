@@ -1,4 +1,400 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[School]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>School</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 12 Jun 2025 19:03:56 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 12 Jun 2025 19:03:56 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Pracovní právo]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[School]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>School</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Wed, 25 Jun 2025 19:24:15 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Wed, 25 Jun 2025 19:24:14 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Dědičnost krevních skupin]]></title><description><![CDATA[ 
+ <br>]]></description><link>biologie/subbio/dedicnostkrevnichskupin.html</link><guid isPermaLink="false">Biologie/SubBio/DedicnostKrevnichSkupin.md</guid><pubDate>Fri, 13 Jun 2025 18:01:33 GMT</pubDate></item><item><title><![CDATA[Genetika]]></title><description><![CDATA[ 
+ <br><br><a class="internal-link" data-href="MyslenkovaMapaGen" href="biologie/myslenkovamapagen.html" target="_self" rel="noopener nofollow">Myšlenková mapa</a><br><br>
+<br>Člověk má 23 <a class="internal-link" data-href="Chromozom.md" href="biologie/subbio/chromozom.html" target="_self" rel="noopener nofollow">chromozomů</a>
+<br>Zde je uložená <a data-href="DNA" href="biologie/subbio/dna.html" class="internal-link" target="_self" rel="noopener nofollow">DNA</a>
+<br><a data-href="Replikace" href="biologie/subbio/replikace.html" class="internal-link" target="_self" rel="noopener nofollow">Replikace</a>
+
+<br>Zkopírování/zdvojení informace
+<br>Probíhá v jádru buňky
+
+
+<br><a data-href="Transkripce" href="biologie/subbio/transkripce.html" class="internal-link" target="_self" rel="noopener nofollow">Transkripce</a>
+<br><a data-href="Translace" href="biologie/subbio/translace.html" class="internal-link" target="_self" rel="noopener nofollow">Translace</a>
+<br>Histon
+
+<br>Okolo něho je obmotaná <a data-href="DNA" href="biologie/subbio/dna.html" class="internal-link" target="_self" rel="noopener nofollow">DNA</a>
+
+
+<br>Červené krvinky nemají <a data-href="DNA" href="biologie/subbio/dna.html" class="internal-link" target="_self" rel="noopener nofollow">DNA</a>
+<br><br>
+<br>X
+
+<br>Karyotyp: Soubor všech chromozomů v jádře
+<br>Karyogram: Seřazené chromozomy v jádře
+
+
+<br>X
+
+<br>Gen: Kódují vlastnost, Je na konkrétním místě, Základní jednotka dědičnosti
+<br>Alela: Drží typ genu, Konkrétní forma genu, 2 (a, A)
+
+
+<br>X
+
+<br>Genotyp: Soubor všech genů v rámci DNA
+<br>Fenotyp: Soubor všech pozorovatelných/měřitelných vlastností a znaků
+
+
+<br>X
+
+<br>Homozygot: Pro daný gen má dvě stejné alely (AA, aa)
+<br>Heterozygot: Pro daný gen má dvě různé alely (Aa)
+
+
+<br>X
+
+<br>Dominantní gen: Projeví se jestli je alespoň jedné kopii
+<br>Recesivní gen: Projeví se jen pokud je v dvojnásobné dávce
+
+
+<br>X
+
+<br>Monogenní geny: Dědičnost podmíněné jedním genem
+<br>Polygenní geny: Znak je děděn mnoha geny
+
+
+<br>X
+
+<br>Kvalitativní znkay: Dají se určit jen slovy
+<br>Kvantitativní znaky: Dají se určit číselně
+
+
+<br>X
+
+<br>Strukturní geny: Kódují molekuly proteinů
+<br>Regulační geny: Regulují transkripci jiných genů
+<br>RNA geny: Kódují různé geny <a data-href="RNA" href="biologie/subbio/rna.html" class="internal-link" target="_self" rel="noopener nofollow">RNA</a> (t-RNA, r-RNA)
+
+
+<br>Genový
+
+<br>lokus: Specifické místo genu na chromozomu
+<br>vazba: Geny nacházející se na stejném chromozomu
+
+
+<br>Crossing-Over
+
+<br>Proces, během kterého si dva homologní chromozomy vymění část svého DNA
+
+
+<br><br>
+<br>Neplatí:
+
+<br>Epigenetice = Vnější jevy 
+<br>Gonozomální dedičnost
+<br>Bakteriální výměna
+<br>Genová vazba
+<br>Holandrická dědičnost
+<br>Mutace
+<br>Neúplná penetrace a variabilní expresivita
+<br>Interakce nealelálních genů
+<br>Polygenní a multifaktoriální dědičnost
+
+
+<br>Alelická interakce
+
+<br>Dominance X Recesivita
+<br>Úplná dominance
+<br>Neúplná dominance
+<br>Kodominance
+
+
+<br><a class="internal-link" data-href="DedicnostKrevnichSkupin.md" href="biologie/subbio/dedicnostkrevnichskupin.html" target="_self" rel="noopener nofollow">Dědičnost krevních skupin</a><br>
+<a class="internal-link" data-href="EukaryotickaBunka" href="EukaryotickaBunka" target="_self" rel="noopener nofollow">Eukaryotická buňka</a><br>
+<a class="internal-link" data-href="PohlavniSoustava" href="biologie/pohlavnisoustava.html" target="_self" rel="noopener nofollow">Pohlavní soustava</a>]]></description><link>biologie/genetika.html</link><guid isPermaLink="false">Biologie/Genetika.md</guid><pubDate>Fri, 13 Jun 2025 18:01:33 GMT</pubDate></item><item><title><![CDATA[Politologie]]></title><description><![CDATA[ 
+ <br><br>
+<br>Čím se zabývá
+
+<br>Politickými skupinami
+<br>Ideologiemi
+<br>Chování jedince
+
+
+<br>Disciplíny
+
+<br>Obecná
+
+<br>Zabývá se sama sebou
+<br>Je to převážně o její historii
+<br>Evropská X Americká část
+<br>Vývoj politických škol
+<br>Vztah k jiným vědám
+
+
+<br>Politické teorie
+
+<br>Filozofie
+<br>Hlavní autoři
+
+
+<br>Srovnávací politologie
+
+<br>Srovnává např. typů ústav, státních zřízení
+
+
+<br>Politické instituce
+
+<br>Moc výkonná, zákonná, soudní
+
+
+<br>Mezinárodní vztahy
+
+<br>Velmi náročná disciplína
+<br>Uzavírání smluv
+<br>Domluva mezi státy
+
+
+
+
+<br>Výzkum
+
+<br>Cesty
+
+<br>Normativní politologie
+
+<br>Co je cíl politologie
+<br>Jaké jsou hodnoty politologie
+<br>Politická kultura
+
+
+<br>
+<br>Prognostická politologie
+
+<br>Předpověď jak se bude politika rozvíjet
+<br>Předvídají realitu
+
+
+
+
+
+
+<br><br>
+<br>Praxe 
+<br>Politická činnost
+
+<br>Nějakých politických subjektů
+<br>Politický subjekt
+
+<br>Organizace
+<br>Disponují mocí
+
+
+<br>Politický objekt
+
+<br>Občané
+<br>Nemají moc
+
+
+<br>Vliv
+
+<br>Např. Forma moci
+<br>Autorita
+
+
+<br>Prostředky
+<br>Střety demokratických názorů --&gt; Najít společné řešení
+
+
+<br><br>
+<br><a data-href="Filozofie" href="Filozofie" class="internal-link" target="_self" rel="noopener nofollow">Filozofie</a>
+<br><a data-href="Sociologie" href="Sociologie" class="internal-link" target="_self" rel="noopener nofollow">Sociologie</a>
+<br><a data-href="Historie" href="Historie" class="internal-link" target="_self" rel="noopener nofollow">Historie</a>
+<br><a data-href="Psychologie" href="Psychologie" class="internal-link" target="_self" rel="noopener nofollow">Psychologie</a>
+<br><a data-href="Ekonomie" href="Ekonomie" class="internal-link" target="_self" rel="noopener nofollow">Ekonomie</a>
+<br><a class="internal-link" data-href="Pravo" href="Pravo" target="_self" rel="noopener nofollow">Právo</a>
+<br><br>
+<br>Historická
+<br>Komparativní
+<br>Behavioristická metoda
+<br>Metoda SWOT
+
+<br>Chování v politice
+<br>Určení silných a slabých stránek
+<br>Po analýze + a - to vyhlásí
+
+
+<br>Geografická metoda
+<br><br>
+<br>Pokrok
+
+<br>Zbytkové právo
+<br>Existence písma
+<br>Existence společenských vztahů
+
+
+<br>Koncepce vzniku státu
+
+<br>Teologická koncepce
+
+<br>Stát je vytvořen bohem
+<br>Hodně uplatněno ve středověku
+<br>Jde vidět i v novodobých dějinách viz Japonsko
+
+<br><a class="internal-link" data-href="Sintoismus" href="Sintoismus" target="_self" rel="noopener nofollow">Šintoismus</a>
+
+<br>Hlavní bohyně Amateresu
+<br>Císaři byli boží syni
+
+
+<br>Až do 2. světové války (<a data-href="1946" href="1946" class="internal-link" target="_self" rel="noopener nofollow">1946</a>)
+
+
+
+
+<br>Patriarchální
+
+<br>Stát je větší rodina
+
+
+<br>Mocenská
+
+<br>Podle toho kdo je nejschopnější
+<br>Vládne slabším
+<br>Diktatury
+
+
+<br>Smluvní
+
+<br>Kompromis
+<br>Protože to předtím nefungovalo
+<br>"Stát lidi zotročuje" - nějaký chytrý člověk
+
+
+
+
+<br><br>
+<br>Má teritorium (Pozemní, vzdušný a námořní)
+<br>Státní moc
+<br>Obyvatelstvo
+<br>Státní suverenita - vnější, uznání ostatních států
+<br>Vnitřní suverenita
+
+<br>Není závislý na jiném subjektu ve státě
+<br>Vláda vykonává jak ona chce
+
+
+<br>Funkce
+
+<br>Vnější
+
+<br>Obranná
+<br>Hospodářská
+
+
+<br>Vnitřní
+
+<br>Bezpečnostní
+
+
+
+
+<br>Rozdělení
+
+<br>Podle hlavy státu
+
+<br>Republika
+
+<br>V čele je prezident
+<br>Typy
+
+<br>Prezidentská
+
+<br>Vysoké postavení
+<br>Prezident si určuje vládu
+<br>Vláda rozdělena od zákonodárné moci
+
+
+<br>Semiprezidenská
+
+<br>Má středové pravomoce
+
+
+<br>Parlamentní
+
+<br>Prezident nemá skoro žádný vliv
+
+
+
+
+
+
+<br>Monarchie
+
+<br>Typy
+
+<br>Absolutní
+
+<br>Panovník disponuje všemi pravomocemi
+
+
+<br>Parlamentní
+
+<br>Panovník konzultuje s parlamentem
+
+
+<br>Konstituční
+
+<br>Moc panovníka omezena
+<br>Např. Japonsko po roce 1946
+
+
+
+
+
+
+
+
+<br>Podle územně-správního členění
+
+<br>Unitární
+<br>Federace
+<br>Konfederace
+<br>Protektorát
+
+
+<br>Podle způsobu vládnutí
+
+<br>Demokracie (Vláda lidu)
+<br>Autokracie
+
+<br>Monarchie
+
+<br>Diktatura
+
+<br>Tyranie
+<br>Despocie
+
+
+
+
+<br>Oligarchie
+
+<br>Úzká skupina lidí
+<br>Plutokracie
+
+<br>Vláda nejbohatších
+
+
+
+
+<br>Technokracie
+
+<br>Úzká skupina odborníků
+
+
+<br>Teokracie
+
+<br>Vláda duchovní
+
+
+
+
+
+
+
+
+]]></description><link>osz/politologie.html</link><guid isPermaLink="false">OSZ/Politologie.md</guid><pubDate>Fri, 13 Jun 2025 18:01:33 GMT</pubDate></item><item><title><![CDATA[Pracovní právo]]></title><description><![CDATA[ 
  <br><br>
 <br>Vztah mezi 
 
@@ -148,7 +544,44 @@
 <br>Minimální mzda: 20 500Kč čistého
 
 
-]]></description><link>osz/pracovnipravo.html</link><guid isPermaLink="false">OSZ/PracovniPravo.md</guid><pubDate>Thu, 12 Jun 2025 18:32:28 GMT</pubDate></item><item><title><![CDATA[Pracovní smlouva]]></title><description><![CDATA[ 
+]]></description><link>osz/pracovnipravo.html</link><guid isPermaLink="false">OSZ/PracovniPravo.md</guid><pubDate>Thu, 12 Jun 2025 19:09:33 GMT</pubDate></item><item><title><![CDATA[MainMenu]]></title><description><![CDATA[ 
+ <br><br><br> Open Graph  Open Calendar<br><br>
+<br><a data-href="Kombinatorika" href="matika/kombinatorika.html" class="internal-link" target="_self" rel="noopener nofollow">Kombinatorika</a>
+<br><a class="internal-link" data-href="PascaluvTrojuhelnik" href="matika/pascaluvtrojuhelnik.html" target="_self" rel="noopener nofollow">Pascalův Trojúhelník</a>
+<br><a class="internal-link" data-href="Pravdepodobnost" href="matika/pravdepodobnost.html" target="_self" rel="noopener nofollow">Pravděpodobnost</a>
+<br> New note<br><br>
+<br><a data-href="Planimetrie" href="seminarmatika/planimetrie.html" class="internal-link" target="_self" rel="noopener nofollow">Planimetrie</a>
+<br><a class="internal-link" data-href="KomplexniCisla.md" href="seminarmatika/komplexnicisla.html" target="_self" rel="noopener nofollow">Komplexní čísla</a>
+<br><br>
+<br><a data-href="Genetika" href="biologie/genetika.html" class="internal-link" target="_self" rel="noopener nofollow">Genetika</a>
+<br><a class="internal-link" data-href="SmyslovaSoustava" href="biologie/smyslovasoustava.html" target="_self" rel="noopener nofollow">Smyslová soustava</a>
+<br><a class="internal-link" data-href="PohlavniSoustava" href="biologie/pohlavnisoustava.html" target="_self" rel="noopener nofollow">Pohlavní soustava</a>
+<br><a data-href="RandomVypiskyPriUceni" href="biologie/randomvypiskypriuceni.html" class="internal-link" target="_self" rel="noopener nofollow">RandomVypiskyPriUceni</a>
+<br><a data-href="Ekologie" href="biologie/ekologie.html" class="internal-link" target="_self" rel="noopener nofollow">Ekologie</a>
+<br> New note<br><br><br>
+<br><a class="internal-link" data-href="ObcanskePravo" href="osz/obcanskepravo.html" target="_self" rel="noopener nofollow">Občanské právo</a>
+<br><a class="internal-link" data-href="LidskaPrava" href="osz/lidskaprava.html" target="_self" rel="noopener nofollow">Lidská práva</a>
+<br><a class="internal-link" data-href="VlastnickePravo" href="osz/vlastnickepravo.html" target="_self" rel="noopener nofollow">Vlastnické právo</a>
+<br><a class="internal-link" data-href="DedickePravo" href="osz/dedickepravo.html" target="_self" rel="noopener nofollow">Dědické právo</a>
+<br><a class="internal-link" data-href="RodinnePravo" href="osz/rodinnepravo.html" target="_self" rel="noopener nofollow">Rodinné právo</a>
+<br><a class="internal-link" data-href="VerejnePravo" href="osz/verejnepravo.html" target="_self" rel="noopener nofollow">Veřejné právo</a>
+<br><a class="internal-link" data-href="TrestniPravo" href="osz/trestnipravo.html" target="_self" rel="noopener nofollow">Trestní právo</a>
+<br><a class="internal-link" data-href="PracovniPravo" href="osz/pracovnipravo.html" target="_self" rel="noopener nofollow">Pracovní právo</a>
+<br><br>
+<br><a data-href="Politologie" href="osz/politologie.html" class="internal-link" target="_self" rel="noopener nofollow">Politologie</a>
+<br> New note<br><br>
+<br><a data-href="Optika" href="fyzika/optika.html" class="internal-link" target="_self" rel="noopener nofollow">Optika</a>
+<br><br>
+<br><a class="internal-link" data-href="RevoluceVEvrope" href="dejepis/revolucevevrope.html" target="_self" rel="noopener nofollow">Revoluce v Evropě</a>
+<br><a data-href="Francie" href="dejepis/francie.html" class="internal-link" target="_self" rel="noopener nofollow">Francie</a>
+<br><a class="internal-link" data-href="BachuvAbsolutismus" href="dejepis/bachuvabsolutismus.html" target="_self" rel="noopener nofollow">Bachův absolutismus</a>
+<br><a class="internal-link" data-href="HabsburskaMonarchie" href="dejepis/habsburskamonarchie.html" target="_self" rel="noopener nofollow">Habsburská monarchie</a>
+<br><br>
+<br><a data-href="Antibiotika" href="chemie/antibiotika.html" class="internal-link" target="_self" rel="noopener nofollow">Antibiotika</a>
+<br><a data-href="Vitaminy" href="Vitaminy" class="internal-link" target="_self" rel="noopener nofollow">Vitaminy</a>
+<br><br>
+<br><a class="internal-link" data-href="Vylet25" href="skolniaktivity/vylet25.html" target="_self" rel="noopener nofollow">Výlet 2025</a>
+]]></description><link>mainmenu.html</link><guid isPermaLink="false">MainMenu.md</guid><pubDate>Fri, 13 Jun 2025 18:01:33 GMT</pubDate></item><item><title><![CDATA[Pracovní smlouva]]></title><description><![CDATA[ 
  <br><br>
 <br>Souhlasné vyjádření obou stran
 
@@ -504,258 +937,7 @@
 
 
 <br>Po dokončení nových vláken jsou primery odstraněny a nahrazeny DNA (to dělá jiný druh DNA-polymerázy). Ligáza nově vytvořené vlákno pospojuje
-<br>Opravu chyb Kavanová moc neprobírala a snad nechce, používá se několik způsobů, za jeden je zodpovědný enzym exonukleáza ("exo-" -&gt; ven/pryč), vyndává pryč chybné báze. Potom prázdná místa vyplní DNA-polymeráza (jiného typu než ta dříve zmíněná) správnými bázemi. Ligáza vlákno zacelí<br><br>Video: <a data-tooltip-position="top" aria-label="https://www.youtube.com/watch?v=TNKWgcFPHqw" rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=TNKWgcFPHqw" target="_blank">Youtube</a><br>Zajímavé video ale rozsáhlejší než potřebujeme: <a data-tooltip-position="top" aria-label="https://www.youtube.com/watch?v=lv89fSt5jBY" rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=lv89fSt5jBY" target="_blank">Youtube</a><br>šroubovice (RNA) versus dvoušroubovice (DNA): <a data-tooltip-position="top" aria-label="https://www.youtube.com/shorts/KRAUpmSkatY" rel="noopener nofollow" class="external-link" href="https://www.youtube.com/shorts/KRAUpmSkatY" target="_blank">Youtube.com/shorts/</a>]]></description><link>biologie/subbio/replikace.html</link><guid isPermaLink="false">Biologie/SubBio/Replikace.md</guid><pubDate>Thu, 12 Jun 2025 15:19:57 GMT</pubDate><enclosure url="lib/media/matikageometrie1.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib/media/matikageometrie1.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Politologie]]></title><description><![CDATA[ 
- <br><br>
-<br>Čím se zabývá
-
-<br>Politickými skupinami
-<br>Ideologiemi
-<br>Chování jedince
-
-
-<br>Disciplíny
-
-<br>Obecná
-
-<br>Zabývá se sama sebou
-<br>Je to převážně o její historii
-<br>Evropská X Americká část
-<br>Vývoj politických škol
-<br>Vztah k jiným vědám
-
-
-<br>Politické teorie
-
-<br>Filozofie
-<br>Hlavní autoři
-
-
-<br>Srovnávací politologie
-
-<br>Srovnává např. typů ústav, státních zřízení
-
-
-<br>Politické instituce
-
-<br>Moc výkonná, zákonná, soudní
-
-
-<br>Mezinárodní vztahy
-
-<br>Velmi náročná disciplína
-<br>Uzavírání smluv
-<br>Domluva mezi státy
-
-
-
-
-<br>Výzkum
-
-<br>Cesty
-
-<br>Normativní politologie
-
-<br>Co je cíl politologie
-<br>Jaké jsou hodnoty politologie
-<br>Politická kultura
-
-
-<br>
-<br>Prognostická politologie
-
-<br>Předpověď jak se bude politika rozvíjet
-<br>Předvídají realitu
-
-
-
-
-
-
-<br><br>
-<br>Praxe 
-<br>Politická činnost
-
-<br>Nějakých politických subjektů
-<br>Politický subjekt
-
-<br>Organizace
-<br>Disponují mocí
-
-
-<br>Politický objekt
-
-<br>Občané
-<br>Nemají moc
-
-
-<br>Vliv
-
-<br>Např. Forma moci
-<br>Autorita
-
-
-<br>Prostředky
-<br>Střety demokratických názorů --&gt; Najít společné řešení
-
-
-<br><br>
-<br><a data-href="Filozofie" href="Filozofie" class="internal-link" target="_self" rel="noopener nofollow">Filozofie</a>
-<br><a data-href="Sociologie" href="Sociologie" class="internal-link" target="_self" rel="noopener nofollow">Sociologie</a>
-<br><a data-href="Historie" href="Historie" class="internal-link" target="_self" rel="noopener nofollow">Historie</a>
-<br><a data-href="Psychologie" href="Psychologie" class="internal-link" target="_self" rel="noopener nofollow">Psychologie</a>
-<br><a data-href="Ekonomie" href="Ekonomie" class="internal-link" target="_self" rel="noopener nofollow">Ekonomie</a>
-<br><a class="internal-link" data-href="Pravo" href="Pravo" target="_self" rel="noopener nofollow">Právo</a>
-<br><br>
-<br>Historická
-<br>Komparativní
-<br>Behavioristická metoda
-<br>Metoda SWOT
-
-<br>Chování v politice
-<br>Určení silných a slabých stránek
-<br>Po analýze + a - to vyhlásí
-
-
-<br>Geografická metoda
-<br><br>
-<br>Pokrok
-
-<br>Zbytkové právo
-<br>Existence písma
-<br>Existence společenských vztahů
-
-
-<br>Koncepce vzniku státu
-
-<br>Teologická koncepce
-
-<br>Stát je vytvořen bohem
-<br>Hodně uplatněno ve středověku
-<br>Jde vidět i v novodobých dějinách viz Japonsko
-
-<br><a class="internal-link" data-href="Sintoismus" href="Sintoismus" target="_self" rel="noopener nofollow">Šintoismus</a>
-
-<br>Hlavní bohyně Amateresu
-<br>Císaři byli boží syni
-
-
-<br>Až do 2. světové války (<a data-href="1946" href="1946" class="internal-link" target="_self" rel="noopener nofollow">1946</a>)
-
-
-
-
-<br>Patriarchální
-
-<br>Stát je větší rodina
-
-
-<br>Mocenská
-
-<br>Podle toho kdo je nejschopnější
-<br>Vládne slabším
-<br>Diktatury
-
-
-<br>Smluvní
-
-<br>Kompromis
-<br>Protože to předtím nefungovalo
-<br>"Stát lidi zotročuje" - nějaký chytrý člověk
-
-
-
-
-<br><br>
-<br>Má teritorium (Pozemní, vzdušný a námořní)
-<br>Státní moc
-<br>Obyvatelstvo
-<br>Státní suverenita - vnější, uznání ostatních států
-<br>Vnitřní suverenita
-
-<br>Není závislý na jiném subjektu ve státě
-<br>Vláda vykonává jak ona chce
-
-
-<br>Funkce
-
-<br>Vnější
-
-<br>Obranná
-<br>Hospodářská
-
-
-<br>Vnitřní
-
-<br>Bezpečnostní
-
-
-
-
-<br>Rozdělení
-
-<br>Podle hlavy státu
-
-<br>Republika
-
-<br>V čele je prezident
-<br>Typy
-
-<br>Prezidentská
-
-<br>Vysoké postavení
-<br>Prezident si určuje vládu
-<br>Vláda rozdělena od zákonodárné moci
-
-
-<br>Semiprezidenská
-
-<br>Má středové pravomoce
-
-
-<br>Parlamentní
-
-<br>Prezident nemá skoro žádný vliv
-
-
-
-
-
-
-<br>Monarchie
-
-<br>Typy
-
-<br>Absolutní
-
-<br>Panovník disponuje všemi pravomocemi
-
-
-<br>Parlamentní
-
-<br>Panovník konzultuje s parlamentem
-
-
-<br>Konstituční
-
-<br>Moc panovníka omezena
-<br>Např. Japonsko po roce 1946
-
-
-
-
-
-
-
-
-<br>Podle územně-správního členění
-
-<br>Unitární
-<br>Federace
-
-
-
-
-]]></description><link>osz/politologie.html</link><guid isPermaLink="false">OSZ/Politologie.md</guid><pubDate>Thu, 12 Jun 2025 15:19:57 GMT</pubDate></item><item><title><![CDATA[RNA]]></title><description><![CDATA[ 
+<br>Opravu chyb Kavanová moc neprobírala a snad nechce, používá se několik způsobů, za jeden je zodpovědný enzym exonukleáza ("exo-" -&gt; ven/pryč), vyndává pryč chybné báze. Potom prázdná místa vyplní DNA-polymeráza (jiného typu než ta dříve zmíněná) správnými bázemi. Ligáza vlákno zacelí<br><br>Video: <a data-tooltip-position="top" aria-label="https://www.youtube.com/watch?v=TNKWgcFPHqw" rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=TNKWgcFPHqw" target="_blank">Youtube</a><br>Zajímavé video ale rozsáhlejší než potřebujeme: <a data-tooltip-position="top" aria-label="https://www.youtube.com/watch?v=lv89fSt5jBY" rel="noopener nofollow" class="external-link" href="https://www.youtube.com/watch?v=lv89fSt5jBY" target="_blank">Youtube</a><br>šroubovice (RNA) versus dvoušroubovice (DNA): <a data-tooltip-position="top" aria-label="https://www.youtube.com/shorts/KRAUpmSkatY" rel="noopener nofollow" class="external-link" href="https://www.youtube.com/shorts/KRAUpmSkatY" target="_blank">Youtube.com/shorts/</a>]]></description><link>biologie/subbio/replikace.html</link><guid isPermaLink="false">Biologie/SubBio/Replikace.md</guid><pubDate>Thu, 12 Jun 2025 15:19:57 GMT</pubDate><enclosure url="lib/media/matikageometrie1.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib/media/matikageometrie1.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[RNA]]></title><description><![CDATA[ 
  <br><br>
 <br>Skládá se z <a class="internal-link" data-href="DusikateBaze" href="biologie/subbio/dusikatebaze.html" target="_self" rel="noopener nofollow">dusíkatých bází</a> (A, C, G, U)
 
@@ -976,137 +1158,7 @@
 <br>Aminokyseliny
 
 
-]]></description><link>biologie/subbio/dna.html</link><guid isPermaLink="false">Biologie/SubBio/DNA.md</guid><pubDate>Sun, 08 Jun 2025 09:46:27 GMT</pubDate></item><item><title><![CDATA[Genetika]]></title><description><![CDATA[ 
- <br><br><a class="internal-link" data-href="MyslenkovaMapaGen" href="biologie/myslenkovamapagen.html" target="_self" rel="noopener nofollow">Myšlenková mapa</a><br><br>
-<br>Člověk má 23 <a class="internal-link" data-href="Chromozom.md" href="biologie/subbio/chromozom.html" target="_self" rel="noopener nofollow">chromozomů</a>
-<br>Zde je uložená <a data-href="DNA" href="biologie/subbio/dna.html" class="internal-link" target="_self" rel="noopener nofollow">DNA</a>
-<br><a data-href="Replikace" href="biologie/subbio/replikace.html" class="internal-link" target="_self" rel="noopener nofollow">Replikace</a>
-
-<br>Zkopírování/zdvojení informace
-<br>Probíhá v jádru buňky
-
-
-<br><a data-href="Transkripce" href="biologie/subbio/transkripce.html" class="internal-link" target="_self" rel="noopener nofollow">Transkripce</a>
-<br><a data-href="Translace" href="biologie/subbio/translace.html" class="internal-link" target="_self" rel="noopener nofollow">Translace</a>
-<br>Histon
-
-<br>Okolo něho je obmotaná <a data-href="DNA" href="biologie/subbio/dna.html" class="internal-link" target="_self" rel="noopener nofollow">DNA</a>
-
-
-<br>Červené krvinky nemají <a data-href="DNA" href="biologie/subbio/dna.html" class="internal-link" target="_self" rel="noopener nofollow">DNA</a>
-<br><br>
-<br>X
-
-<br>Karyotyp: Soubor všech chromozomů v jádře
-<br>Karyogram: Seřazené chromozomy v jádře
-
-
-<br>X
-
-<br>Gen: Kódují vlastnost, Je na konkrétním místě, Základní jednotka dědičnosti
-<br>Alela: Drží typ genu, 2 (a, A)
-
-
-<br>X
-
-<br>Genotyp: Soubor všech genů v rámci DNA
-<br>Fenotyp: Soubor všech pozorovatelných/měřitelných vlastností a znaků
-
-
-<br>X
-
-<br>Homozygot: Pro daný gen má dvě stejné alely (AA, aa)
-<br>Heterozygot: Pro daný gen má dvě různé alely (Aa)
-
-
-<br>X
-
-<br>Dominantní gen: Projeví se jestli je alespoň jedné kopii
-<br>Recesivní gen: Projeví se jen pokud je v dvojnásobné dávce
-
-
-<br>X
-
-<br>Monogenní geny: Dědičnost podmíněné jedním genem
-<br>Polygenní geny: Znak je děděn mnoha geny
-
-
-<br>X
-
-<br>Kvalitativní znkay: Dají se určit jen slovy
-<br>Kvantitativní znaky: Dají se určit číselně
-
-
-<br>X
-
-<br>Strukturní geny: Kódují molekuly proteinů
-<br>Regulační geny: Regulují transkripci jiných genů
-<br>RNA geny: Kódují různé geny <a data-href="RNA" href="biologie/subbio/rna.html" class="internal-link" target="_self" rel="noopener nofollow">RNA</a> (t-RNA, r-RNA)
-
-
-<br>Genový
-
-<br>lokus: Specifické místo genu na chromozomu
-<br>vazba: Geny nacházející se na stejném chromozomu
-
-
-<br>Crossing-Over
-
-<br>Proces, během kterého si dva homologní chromozomy vymění část svého DNA
-
-
-<br><br>
-<br>Neplatí:
-
-<br>Epigenetice
-<br>Gonozomální dedičnost
-<br>Bakteriální výměna
-<br>Genová vazba
-<br>Holandrická dědičnost
-<br>Mutace
-<br>Neúplná penetrace a variabilní expresivita
-<br>Interakce nealelálních genů
-<br>Polygenní a multifaktoriální dědičnost
-
-
-<br><a class="internal-link" data-href="EukaryotickaBunka" href="EukaryotickaBunka" target="_self" rel="noopener nofollow">Eukaryotická buňka</a><br>
-<a class="internal-link" data-href="PohlavniSoustava" href="biologie/pohlavnisoustava.html" target="_self" rel="noopener nofollow">Pohlavní soustava</a>]]></description><link>biologie/genetika.html</link><guid isPermaLink="false">Biologie/Genetika.md</guid><pubDate>Sun, 08 Jun 2025 09:47:24 GMT</pubDate></item><item><title><![CDATA[MainMenu]]></title><description><![CDATA[ 
- <br><br><br> Open Graph  Open Calendar<br><br>
-<br><a data-href="Kombinatorika" href="matika/kombinatorika.html" class="internal-link" target="_self" rel="noopener nofollow">Kombinatorika</a>
-<br><a class="internal-link" data-href="PascaluvTrojuhelnik" href="matika/pascaluvtrojuhelnik.html" target="_self" rel="noopener nofollow">Pascalův Trojúhelník</a>
-<br><a class="internal-link" data-href="Pravdepodobnost" href="matika/pravdepodobnost.html" target="_self" rel="noopener nofollow">Pravděpodobnost</a>
-<br> New note<br><br>
-<br><a data-href="Planimetrie" href="seminarmatika/planimetrie.html" class="internal-link" target="_self" rel="noopener nofollow">Planimetrie</a>
-<br><a class="internal-link" data-href="KomplexniCisla.md" href="seminarmatika/komplexnicisla.html" target="_self" rel="noopener nofollow">Komplexní čísla</a>
-<br><br>
-<br><a data-href="Genetika" href="biologie/genetika.html" class="internal-link" target="_self" rel="noopener nofollow">Genetika</a>
-<br><a class="internal-link" data-href="SmyslovaSoustava" href="biologie/smyslovasoustava.html" target="_self" rel="noopener nofollow">Smyslová soustava</a>
-<br><a class="internal-link" data-href="PohlavniSoustava" href="biologie/pohlavnisoustava.html" target="_self" rel="noopener nofollow">Pohlavní soustava</a>
-<br><a data-href="RandomVypiskyPriUceni" href="biologie/randomvypiskypriuceni.html" class="internal-link" target="_self" rel="noopener nofollow">RandomVypiskyPriUceni</a>
-<br><a data-href="Ekologie" href="biologie/ekologie.html" class="internal-link" target="_self" rel="noopener nofollow">Ekologie</a>
-<br> New note<br><br><br>
-<br><a class="internal-link" data-href="ObcanskePravo" href="osz/obcanskepravo.html" target="_self" rel="noopener nofollow">Občanské právo</a>
-<br><a class="internal-link" data-href="LidskaPrava" href="osz/lidskaprava.html" target="_self" rel="noopener nofollow">Lidská práva</a>
-<br><a class="internal-link" data-href="VlastnickePravo" href="osz/vlastnickepravo.html" target="_self" rel="noopener nofollow">Vlastnické právo</a>
-<br><a class="internal-link" data-href="DedickePravo" href="osz/dedickepravo.html" target="_self" rel="noopener nofollow">Dědické právo</a>
-<br><a class="internal-link" data-href="RodinnePravo" href="osz/rodinnepravo.html" target="_self" rel="noopener nofollow">Rodinné právo</a>
-<br><a class="internal-link" data-href="VerejnePravo" href="osz/verejnepravo.html" target="_self" rel="noopener nofollow">Veřejné právo</a>
-<br><a class="internal-link" data-href="TrestniPravo" href="osz/trestnipravo.html" target="_self" rel="noopener nofollow">Trestní právo</a>
-<br><br>
-<br><a data-href="Politologie" href="osz/politologie.html" class="internal-link" target="_self" rel="noopener nofollow">Politologie</a>
-<br> New note<br><br>
-<br><a data-href="Optika" href="fyzika/optika.html" class="internal-link" target="_self" rel="noopener nofollow">Optika</a>
-<br><br>
-<br><a class="internal-link" data-href="RevoluceVEvrope" href="dejepis/revolucevevrope.html" target="_self" rel="noopener nofollow">Revoluce v Evropě</a>
-<br><a data-href="Francie" href="dejepis/francie.html" class="internal-link" target="_self" rel="noopener nofollow">Francie</a>
-<br><a class="internal-link" data-href="BachuvAbsolutismus" href="dejepis/bachuvabsolutismus.html" target="_self" rel="noopener nofollow">Bachův absolutismus</a>
-<br><a class="internal-link" data-href="HabsburskaMonarchie" href="dejepis/habsburskamonarchie.html" target="_self" rel="noopener nofollow">Habsburská monarchie</a>
-<br><br>
-<br><a data-href="Antibiotika" href="chemie/antibiotika.html" class="internal-link" target="_self" rel="noopener nofollow">Antibiotika</a>
-<br><a data-href="Vitaminy" href="Vitaminy" class="internal-link" target="_self" rel="noopener nofollow">Vitaminy</a>
-<br><br>
-<br><a class="internal-link" data-href="Vylet25" href="skolniaktivity/vylet25.html" target="_self" rel="noopener nofollow">Výlet 2025</a>
-]]></description><link>mainmenu.html</link><guid isPermaLink="false">MainMenu.md</guid><pubDate>Sun, 08 Jun 2025 09:20:08 GMT</pubDate></item><item><title><![CDATA[Chlamydie]]></title><description><![CDATA[ 
+]]></description><link>biologie/subbio/dna.html</link><guid isPermaLink="false">Biologie/SubBio/DNA.md</guid><pubDate>Sun, 08 Jun 2025 09:46:27 GMT</pubDate></item><item><title><![CDATA[Chlamydie]]></title><description><![CDATA[ 
  <br>
 <br>Bakterie: Chlamydia trachomatis (nitrobněční parazité)
 <br>(Bezpříznaková)
